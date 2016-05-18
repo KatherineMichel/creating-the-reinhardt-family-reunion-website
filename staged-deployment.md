@@ -1,4 +1,4 @@
-# Staged Deployment
+# Staged Deployment Example
 
 ## Local Setup
 
@@ -28,11 +28,12 @@ Migrate and Runserver
 
 ## Git
 
-Initialize repo (is init needed?)
+Initialize repo and commit files (is init needed?)
 
     $ git init
     $ git add (see options)
     $ git commit -m "First commit"
+    $ git push origin master
 
 Create development branch and create/push to development branch
 
@@ -78,7 +79,7 @@ Getting Started
     Password (typing will be hidden):
     Authentication successful.
 
-Add Public Key (if needed)
+Add Public Key (if needed for staging)
 
     $ heroku keys:add
 
