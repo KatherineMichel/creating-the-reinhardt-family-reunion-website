@@ -4,7 +4,7 @@
 
 ### Pinax Static Site Project
 
-Instructions based on Pinax Quick Start
+Instructions based on [Pinax Quick Start](http://pinaxproject.com/pinax/quick_start)
 
     git clone https://github.com/KatherineMichel/reinhardt-family-reunion-website
     cd reinhardt-family-reunion-website
@@ -18,6 +18,26 @@ Instructions based on Pinax Quick Start
     ./manage.py migrate
     ./manage.py loaddata sites
     ./manage.py runserver
+
+Based on [Pinax Deploying to Heroku](http://pinaxproject.com/pinax/how-tos/deploy-to-heroku)
+
+Add to Requirements
+
+    python-decouple==3.0
+    django-toolbelt
+
+Create Procfile
+
+    web: gunicorn --log-file - mysite.wsgi
+
+Alter wsgi.py
+
+    from dj_static import Cling, MediaCling
+    application = Cling(MediaCling(get_wsgi_application()))
+
+Creating a Heroku App
+
+    heroku create app-name
 
 ### Pinax Blog App
 
