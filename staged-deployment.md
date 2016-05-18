@@ -5,6 +5,7 @@
 Initialize repo
 
     $ git init
+    $ git add (see options)
     $ git commit -m "First commit"
 
 Create development branch and push to development branch
@@ -18,9 +19,39 @@ Merge development branch into master branch, push to master branch
     $ git merge development
     $ git push origin master
 
-## Heroku
+## Heroku Deployment
 
-    $ heroko create app-name
+    Create a free Heroku account, if needed: https://signup.heroku.com/www-home-top
+    Install Heroku Toolbelt, if needed: https://toolbelt.heroku.com
+
+Authenticate Heroku Account via Terminal
+
+    $ heroku login
+
+Getting Started
+
+    Enter your Heroku credentials.
+    Email: your@email.com
+    Password (typing will be hidden):
+    Authentication successful.
+
+Adding Public Key
+
+    $ heroku keys:add
+
+Init and Commit ???????????
+
+    $ git init
+    $ git add (see options)
+    $ git commit -m "Initial commit" (or other message)
+
+Create Heroku app
+
+    $ heroku create app-name
+
+Deploy to Heroku
+
+    $ git push heroku master 
 
 ## Staging
 
