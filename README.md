@@ -9,7 +9,7 @@ Table of Contents
 * [Wireframe](wireframe.md)
 * [High-Fidelity Prototype](high-fidelity-prototype.md)
 * [Coding](coding.md)
-* [Staged Deployment](staged-deployment.md)
+* [Staged Deployment Example](staged-deployment-example.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-family-reunion-website/content/
 <br> 
