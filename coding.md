@@ -6,6 +6,7 @@
 
 Instructions based on [Pinax Quick Start](http://pinaxproject.com/pinax/quick_start)
 
+    pyenv global 3.5.0
     git clone https://github.com/KatherineMichel/reinhardt-family-reunion-website
     cd reinhardt-family-reunion-website
     pyenv virtualenv reinhardt-family-reunion-website
