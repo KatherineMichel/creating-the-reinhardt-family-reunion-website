@@ -35,7 +35,7 @@ Getting Started
     Password (typing will be hidden):
     Authentication successful.
 
-Adding Public Key
+Add Public Key (if needed)
 
     $ heroku keys:add
 
