@@ -129,13 +129,13 @@ Create local development Branch, Push to Staging Site, Create/Push to GitHub dev
 
 ## Staging and Production Sites
 
-Staging URL
-
-    https://reinhardt-family-reunion-staging.herokuapp.com
-
 Production URL
 
     https://reinhardt-family-reunion.herokuapp.com
+
+Staging URL (the word staging is abbreviated due to 30 character limit)
+
+    https://reinhardt-family-reunion-s.herokuapp.com
 
 ### Merge Changes Between development and master Branches, Push and Pull Between GitHub and Local Branches
 
