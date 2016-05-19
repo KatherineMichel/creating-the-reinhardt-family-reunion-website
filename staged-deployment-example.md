@@ -52,7 +52,7 @@ Push to GitHub master branch
 
 Based on [Pinax Deploying to Heroku](http://pinaxproject.com/pinax/how-tos/deploy-to-heroku)
 
-Add to Requirements
+Add to requirements.txt
 
     django-toolbelt
 
@@ -65,10 +65,37 @@ Alter wsgi.py
     from dj_static import Cling, MediaCling
     application = Cling(MediaCling(get_wsgi_application()))
 
+
+In your settings.py change:
+
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.sqlite3",
+            "NAME": "dev.db",
+        }
+    }
+
+to:
+
+    import dj_database_url
+    DATABASES = {
+        "default": dj_database_url.config()
+    }
+
 ## Deploy to Heroku Staging and Production Websites
 
     $ heroku create app-name
+    $ heroku buildpacks:set git://github.com/heroku/heroku-buildpack-python.git
+
+Add and commit files to GitHub and Heroku
+
+    $ git add .
+    $ git commit -m "added Heroku support"
+
+Push to Heroku and GitHub
+
     $ git push heroku master
+    $ git push origin master
 
 Migrate and Open Heroku App in Browser
 
