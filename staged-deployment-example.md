@@ -56,9 +56,9 @@ Add to requirements.txt
 
     django-toolbelt
 
-Create Procfile
+Create Procfile (Note! "mysite" needs to be changed to your project name, as I've done below)
 
-    web: gunicorn --log-file - mysite.wsgi
+    web: gunicorn --log-file - reinhardtfamilyreunion.wsgi
 
 Alter wsgi.py
 
