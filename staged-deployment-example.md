@@ -157,3 +157,7 @@ Pull changes (checkout as needed)
 
     $ git pull origin master
     $ git pull origin development
+
+### Adding Another App 
+
+See [Pinax Quick Start](http://pinaxproject.com/pinax/quick_start)
