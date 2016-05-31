@@ -1,15 +1,19 @@
 # Coding
 
-## Framework
+## Front-End
 
-### Pinax Static Site Project
+* Repurposed WordPress Template (I loved the look of it and potential functionality)
+* CSS, HTML, jQuery with PHP stripped out
 
-### Pinax Blog App
+## Back-End Language
 
-## CSS and HTML
-
-## JavaScript/jQuery
+* Django
 
 ## Models
 
 ## Views
+
+* Template Views
+* Class-Based Views
+
+## Admin
