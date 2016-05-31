@@ -4,14 +4,23 @@
 
 Table of Contents
 * [About](README.md)
+* [Introduction](introduction.md)
 * [Project Management](project-management.md)
-* [Flow Diagram](flow-diagram.md)
-* [Wireframe](wireframes.md)
-* [High-Fidelity Prototype](high-fidelity-prototype.md)
-* [Coding](coding.md)
-* [Accessibility](accessibility.md)
-* [Staged Deployment Example](staged-deployment-example.md)
-* [User Testing](user-testing.md)
+* [Research Sprint](research-sprint/research-sprint.md)
+   * [Demographics](research-sprint/demographics.md)
+   * [Lightning Demos](research-sprint/lightning-demos.md)
+* [Design Sprint](design-sprint/design-sprint.md)
+   * [Flow Diagram](design-sprint/flow-diagram.md)
+   * [Wireframe](design-sprint/wireframes.md)
+   * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
+   * [Accessibility](design-sprint/accessibility.md)
+* [Coding](coding/coding.md)
+* [Staged Deployment](coding/staged-deployment.md)
+* [User Testing](user-testing/user-testing.md)
+   * [User Recruiting Process](user/user-recruiting-process.md)
+   * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
+* [User Testing Summary](user-testing/user-testing-summary.md)
+* [Lessons Learned](lessons-learned.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-family-reunion-website/content/
 <br> 
