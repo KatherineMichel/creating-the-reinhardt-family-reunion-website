@@ -48,40 +48,6 @@ Push to GitHub master branch
 
     $ git push origin master
 
-## Prepare for Heroku Deployment (Incomplete)
-
-Based on [Pinax Deploying to Heroku](http://pinaxproject.com/pinax/how-tos/deploy-to-heroku)
-
-Add to requirements.txt
-
-    django-toolbelt
-
-Create Procfile (Note! "mysite" needs to be changed to your project name, as I've done below)
-
-    web: gunicorn --log-file - reinhardtfamilyreunion.wsgi
-
-Alter wsgi.py
-
-    from dj_static import Cling, MediaCling
-    application = Cling(MediaCling(get_wsgi_application()))
-
-
-In your settings.py change:
-
-    DATABASES = {
-        "default": {
-            "ENGINE": "django.db.backends.sqlite3",
-            "NAME": "dev.db",
-        }
-    }
-
-to:
-
-    import dj_database_url
-    DATABASES = {
-        "default": dj_database_url.config()
-    }
-
 ## Deploy to Heroku Staging and Production Websites
 
     $ heroku create app-name
@@ -157,7 +123,3 @@ Pull changes (checkout as needed)
 
     $ git pull origin master
     $ git pull origin development
-
-### Adding Another App 
-
-See [Pinax Quick Start](http://pinaxproject.com/pinax/quick_start)
