@@ -10,7 +10,7 @@ Create a GitHub repo and clone locally, but do not cd into the directory.
 
     $ git clone https://github.com/KatherineMichel/reinhardt-family-reunion-website
 
-Python, pip, and Django should be installed globally, as well as Heroku Toolbelt installed and authenticated. Create a GitHub repo and clone locally, but do not cd into the directory. Run this command in the parent directory (You can replace "projectname" with your desired project name; replace repo-name with the name of the GitHub repo you have cloned locally.):
+Python, pip, and Django should be installed globally, as well as Heroku Toolbelt installed and authenticated. Run this command in the parent directory:
 
     $ django-admin startproject --template=https://github.com/pinax/pinax-starter-projects/zipball/static reinhardtfamilyreunion reinhardt-family-reunion-website -n webpack.config.js
 
