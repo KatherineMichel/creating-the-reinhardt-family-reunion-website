@@ -1,4 +1,4 @@
-# Staged Deployment Example
+# Staged Deployment
 
 ## Example Instructions
 
