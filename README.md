@@ -11,6 +11,7 @@ Table of Contents
 * [Coding](coding.md)
 * [Accessibility](accessibility.md)
 * [Staged Deployment Example](staged-deployment-example.md)
+* [User Testing](user-testing.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-family-reunion-website/content/
 <br> 
