@@ -9,7 +9,7 @@ Table of Contents
    * [Lightning Demos](research-sprint/lightning-demos.md)
 * [Design Sprint](design-sprint/design-sprint.md)
    * [Flow Diagram](design-sprint/flow-diagram.md)
-   * [Wireframe](design-sprint/wireframes.md)
+   * [Wireframes](design-sprint/wireframes.md)
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
 * [Coding](coding/coding.md)
