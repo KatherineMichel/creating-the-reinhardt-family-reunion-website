@@ -1,4 +1,4 @@
 # Flow Diagram
 
 Website flow diagram made using Google Drawing
-![](images/website-flow-diagram.jpg)
+![](design-sprint/images/website-flow-diagram.jpg)
