@@ -15,7 +15,7 @@ Table of Contents
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
 * [Coding](coding/coding.md)
-* [Staged Deployment](coding/staged-deployment.md)
+   * [Staged Deployment](coding/staged-deployment.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user/user-recruiting-process.md)
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
