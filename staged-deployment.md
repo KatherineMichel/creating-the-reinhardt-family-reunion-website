@@ -1,16 +1,16 @@
 # Staged Deployment
 
+Created using [Heroku Django Template](https://github.com/heroku/heroku-django-template)
+
 ## Example Instructions
 
 ### Create Project Locally and Push to GitHub master branch
-
-Instructions based on [Pinax Quick Start](http://pinaxproject.com/pinax/quick_start)
 
 Create a GitHub repo and clone locally, but do not cd into the directory. 
 
     $ git clone https://github.com/KatherineMichel/reinhardt-family-reunion-website
 
-Python, pip, and Django should be installed globally, as well as Heroku Toolbelt installed and authenticated. Run this command in the parent directory:
+Python, pip, and Django should be installed globally, as well as Heroku Toolbelt installed and authenticated. Create a GitHub repo and clone locally, but do not cd into the directory. Run this command in the parent directory (You can replace "projectname" with your desired project name; replace repo-name with the name of the GitHub repo you have cloned locally.):
 
     $ django-admin startproject --template=https://github.com/pinax/pinax-starter-projects/zipball/static reinhardtfamilyreunion reinhardt-family-reunion-website -n webpack.config.js
 
@@ -24,16 +24,10 @@ At this point, it's strongly recommended that you create and activate a virtuale
     $ pyenv virtualenv reinhardt-family-reunion-website
     $ pyenv activate reinhardt-family-reunion-website
 
-Install requirements, and run server 
+Install requirements, and run server (migrate?)
 
     $ pip install -r requirements.txt
-    $ chmod +x manage.py
-
-Migrate and runserver
-
-    $ ./manage.py migrate
-    $ ./manage.py loaddata sites
-    $ ./manage.py runserver
+    $ python manage.py runserver 
     
 Check that the Django welcome page appears
 
