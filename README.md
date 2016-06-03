@@ -1,4 +1,4 @@
-# Creating the Reinhardt Family Reunion Website
+# Creating the Reinhardt Reunion Website
 
 ![](cover.jpg)
 
