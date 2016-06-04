@@ -1,26 +1,22 @@
 # Staged Deployment
 
-Created using [Staged Deployment Example](https://github.com/KatherineMichel/staged-deployment-example)
+The staged deployment process was based on a [Staged Deployment Example](https://github.com/KatherineMichel/staged-deployment-example) that I developed. 
 
 ## Details
 
-Repo Name
+Create a directory
 
-    $ git clone https://github.com/KatherineMichel/reinhardt-family-reunion-website
+    $ mkdir reinhardt-family-reunion-website
 
-Python, pip, and Django should be installed globally, as well as Heroku Toolbelt installed and authenticated. Run this command in the parent directory:
+Run this command in the parent directory, replacing projectname with project name
 
-    $ django-admin startproject --template=https://github.com/pinax/pinax-starter-projects/zipball/static reinhardtfamilyreunion reinhardt-family-reunion-website -n webpack.config.js
+    $ django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile projectname reinhardt-family-reunion-website
 
 Change directory
 
     $ cd reinhardt-family-reunion-website
 
 At this point, it's strongly recommended that you create and activate a virtualenv of some type. 
-
-    $ pyenv global 3.5.0
-    $ pyenv virtualenv reinhardt-family-reunion-website
-    $ pyenv activate reinhardt-family-reunion-website
 
 ## Staging and Production Sites
 
