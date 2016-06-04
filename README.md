@@ -15,7 +15,7 @@ Table of Contents
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
 * [Coding](coding/coding.md)
-   * [Template](coding/template.md)
+   * [Design](coding/design.md)
    * [Django](coding/django.md)
    * [Staged Deployment](coding/staged-deployment.md)
 * [User Testing](user-testing/user-testing.md)
