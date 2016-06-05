@@ -8,7 +8,7 @@ Table of Contents
    * [Demographics](research-sprint/demographics.md)
    * [Lightning Demos](research-sprint/lightning-demos.md)
 * [Design Sprint](design-sprint/design-sprint.md)
-   * [Flow Diagram](design-sprint/flow-diagram.md)
+   * [Flow Diagram](design-sprint/flow-diagram-rough-draft.md)
    * [Wireframes](design-sprint/wireframes.md)
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
