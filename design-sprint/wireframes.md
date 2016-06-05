@@ -4,13 +4,13 @@
 
 ### Carousel Photos
 
-Photo 1
+Carousel Photo 1
 ![](images/reinhardt-family-1.jpg)
 
-Photo 2
+Carousel Photo 2
 ![](images/reinhardt-family-2.jpg)
 
-Photo 3
+Carousel Photo 3
 ![](images/reinhardt-family-3.jpg)
 
 ## Gallery
