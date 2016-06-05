@@ -4,6 +4,7 @@ Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Project Management](project-management.md)
+* [Research Sprint](research-sprint.md)
 * [Design Sprint](design-sprint/design-sprint.md)
    * [Flow Diagram](design-sprint/flow-diagram-rough-draft.md)
    * [Wireframes](design-sprint/wireframes.md)
