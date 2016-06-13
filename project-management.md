@@ -8,82 +8,82 @@ List by Webdesigntuts+ and [FHOKE](http://www.fhoke.com)
 
 ##Content
 
-- **Spelling**
-- **Copy**
-- **Contact Details**
-- **Copyright**
-- **Terms**
-- **Privacy**
-- 
+- [ ] **Spelling**
+- [ ] **Copy**
+- [ ] **Contact Details**
+- [ ] **Copyright**
+- [ ] **Terms**
+- [ ] **Privacy**
+
 ##Functionality
 
-- **Compatability**
-- **Favicon**
-- **Logo**
-- **404 Pages**
-- **Redirects**
-- **Forms**
-- **Links**
-- **RSS Feeds**
+- [ ] **Compatability**
+- [ ] **Favicon**
+- [ ] **Logo**
+- [ ] **404 Pages**
+- [ ] **Redirects**
+- [ ] **Forms**
+- [ ] **Links**
+- [ ] **RSS Feeds**
 
 ##Standards &amp; Validation 
 
-- **Accessibility**
-- **Contrast**
-- **Text Size**
-- **Alt Tags**
-- **Consistency**
-- **Device Compatibility**
-- **Validation**
-- **JavaScript**
-- **Flash**
+- [ ] **Accessibility**
+- [ ] **Contrast**
+- [ ] **Text Size**
+- [ ] **Alt Tags**
+- [ ] **Consistency**
+- [ ] **Device Compatibility**
+- [ ] **Validation**
+- [ ] **JavaScript**
+- [ ] **Flash**
 
 ##Sitemaps
 
-- **HTML Sitemaps**
-- **XML Sitemaps**
+- [ ] **HTML Sitemaps**
+- [ ] **XML Sitemaps**
 
 ##Performance
 
-- **Check site speed**
-- **Image sizes**
+- [ ] **Check site speed**
+- [ ] **Image sizes**
 
 ##SEO
 
 This list is by no means extensive and if you want to learn more then we recommend reading more from these recent articles [Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/) and [A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3).
 
-- **Keyword Research**
-- **Page Titles & Descriptions**
-- **Image Alt-tags** 
-- **Content**
-- **URLs**
+- [ ] **Keyword Research**
+- [ ] **Page Titles & Descriptions**
+- [ ] **Image Alt-tags** 
+- [ ] **Content**
+- [ ] **URLs**
 
 ##Analytics
 
-- **Monitoring**
+- [ ] **Monitoring**
 
 ##Security
 
-- **Protect Sensitive Pages**
-- **Security Certificates**
+- [ ] **Protect Sensitive Pages**
+- [ ] **Security Certificates**
 
 ##Hosting &amp; Backups
 
-- **Types**
-- **Backups**
-- **Monitoring**
+- [ ] **Types**
+- [ ] **Backups**
+- [ ] **Monitoring**
 
 ##Legal
 
-- **Image/Content Rights**
-- **Payment Terms**
-- **Timelines**
-- **Intellectual Property Rights**
+- [ ] **Image/Content Rights**
+- [ ] **Payment Terms**
+- [ ] **Timelines**
+- [ ] **Intellectual Property Rights**
 
 ##Deliverables
 
-- **Live Website**
-- **Style Guide**
+- [ ] **Live Website**
+- [ ] **Style Guide**
 
 	+ Font Styles
 	+ Image Sizes
@@ -92,13 +92,13 @@ This list is by no means extensive and if you want to learn more then we recomme
 	+ Imagery Style
 	+ Colours
 
-- **Assets & Icons**
-- **Offline Copy**
+- [ ] **Assets & Icons**
+- [ ] **Offline Copy**
 
 ##When to Launch?
 
 ##Ongoing Maintenance
 
-- **Backups**
-- **Version Control**
-- **Analytics**
+- [ ] **Backups**
+- [ ] **Version Control**
+- [ ] **Analytics**
