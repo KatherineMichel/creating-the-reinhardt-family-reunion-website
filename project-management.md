@@ -1,8 +1,6 @@
 # Project Management
 
-List by Webdesigntuts+ and [FHOKE](http://www.fhoke.com)
-
-#Website Launch Checklist
+[Website Launch Checklist for Designers](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers) by Webdesigntuts+ and [FHOKE](http://www.fhoke.com)
 
 ##Successful Launch
 
