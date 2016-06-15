@@ -2,7 +2,7 @@
 
 ## Agile Sprint
 
-Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf) Phases<br>
+Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
 
 Initiate Phase: 
 * Create Project Vision (8.1)
