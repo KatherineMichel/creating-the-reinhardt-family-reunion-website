@@ -38,8 +38,6 @@ Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corr
 Figure 10-5: Scrumboard
 
 Optional
-* Program Product Owner
-* Program Scrum Master
 * Chief Product Owner
 * Chief Scrum Master
 
@@ -50,10 +48,6 @@ Optional
 
 INPUTS
 * [ ] Project Business Case*
-
-* Program Stakeholder(s)
-
-* Program Product Backlog
 * Trial Project
 * Proof of Concept
 * Company Vision
@@ -71,7 +65,7 @@ TOOLS
 OUTPUTS
 * [ ] Identified Product Owner*
 * [ ] Project Vision Statement*
-* Project Charter
+* [ ] Project Charter
 * Project Budget
 
 ## Identify Scrum Master and Stakeholder(s) (8.2)
@@ -79,7 +73,7 @@ OUTPUTS
 INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
-* Stakeholder(s)
+* [ ] Stakeholder(s)
 * Program Product Backlog
 * Program and Portfolio Risks
 * Laws and Regulations
@@ -90,23 +84,21 @@ Recommendations
 
 TOOLS
 * [ ] User Group Meetings*
-* User Story Workshops
-* Focus Group Meetings
-* User or Customer Interviews
-* Questionnaires
+* [ ] User Story Workshops
+* [ ] Focus Group Meetings
+* [ ] User or Customer Interviews
+* [ ] Questionnaires
 * Risk Identification Techniques
 
 INPUTS
 * [ ] Product Owner*
 * [ ] Project Vision Statement*
 
-* Program Stakeholder(s)
 * People Requirements
 * People Availability and Commitment 
 
 Commitment
-* Organizational Resource Matrix
-* Skills Requirement Matrix
+* [ ] Skills Requirement Matrix
 
 Recommendations
 
