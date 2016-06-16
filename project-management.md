@@ -37,10 +37,6 @@ Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corr
 
 Figure 10-5: Scrumboard
 
-Optional
-* Chief Product Owner
-* Chief Scrum Master
-
 * Approved Change Requests
 * Unapproved Change Requests
 
@@ -88,16 +84,17 @@ TOOLS
 * [ ] Focus Group Meetings
 * [ ] User or Customer Interviews
 * [ ] Questionnaires
-* Risk Identification Techniques
+* [ ] Risk Identification Techniques
 
 INPUTS
 * [ ] Product Owner*
 * [ ] Project Vision Statement*
 
-* People Requirements
-* People Availability and Commitment 
+* [ ] People Requirements
+* [ ] People Availability and Commitment 
 
 Commitment
+* Organizational Resource Matrix
 * [ ] Skills Requirement Matrix
 
 Recommendations
@@ -105,7 +102,7 @@ Recommendations
 TOOLS
 * [ ] Selection Criteria*
 * Expert Advice from HR
-* Training and Training Costs 
+* [ ] Training and Training Costs 
 * Resource Costs
 
 OUTPUTS
@@ -119,12 +116,11 @@ INPUTS
 * [ ] Scrum Master*
 * [ ] Project Vision Statement*
 
-* People Requirements
-* People Availability and
+* [ ] People Requirements
+* [ ] People Availability and Commitment 
 
-Commitment 
 * Organizational Resource Matrix
-* Skills Requirement Matrix
+* [ ] Skills Requirement Matrix
 * Resource Requirements
 
 Recommendations
@@ -147,7 +143,7 @@ OUTPUTS
 INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
-* Stakeholder(s)
+* [ ] Stakeholder(s)
 * Program Product Backlog
 * Program and Portfolio Risks
 * Laws and Regulations
@@ -158,17 +154,17 @@ Recommendations
 
 TOOLS
 * [ ] User Group Meetings*
-* User Story Workshops
-* Focus Group Meetings
-* User or Customer Interviews
-* Questionnaires
-* Risk Identification Techniques
+* [ ] User Story Workshops
+* [ ] Focus Group Meetings
+* [ ] User or Customer Interviews
+* [ ] Questionnaires
+* [ ] Risk Identification Techniques
 
 OUTPUTS
 * [ ] Epic(s)* 
 * [ ] Personas*: Creating a Persona
-* Approved Changes
-* Identified Risks
+* [ ] Approved Changes
+* [ ] Identified Risks
 
 ## Create Prioritized Product Backlog (8.5)
 
@@ -176,23 +172,23 @@ INPUTS
 * [ ] Scrum Core Team* 
 * [ ] Epic(s)*
 * [ ] Personas*
-* Stakeholder(s)
-* Project Vision Statement
+* [ ] Stakeholder(s)
+* [ ] Project Vision Statement
 * Program Product Backlog 
-* Business Requirements
-* Approved Change Requests 
-* Identified Risks
+* [ ] Business Requirements
+* [ ] Approved Change Requests 
+* [ ] Identified Risks
 * Applicable Contracts 
 
 Recommendations
 
 TOOLS
 * [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
-* User Story Workshops
-* Planning for Value
-* Risk Assessment Techniques
-* Estimation of Project Value
-* User Story Estimation Methods
+* [ ] User Story Workshops
+* [ ] Planning for Value
+* [ ] Risk Assessment Techniques
+* [ ] Estimation of Project Value
+* [ ] User Story Estimation Methods
 
 OUTPUTS
 * [ ] Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
@@ -220,7 +216,7 @@ TOOLS
 OUTPUTS
 * [ ] Release Planning Schedule*
 * [ ] Length of Sprint*
-* Target Customers for Release
+* [ ] Target Customers for Release
 * Refined Prioritized Product Backlog
 
 ## Create User Stories (9.1)
@@ -230,9 +226,9 @@ INPUTS
 * [ ] Prioritized Product Backlog*
 * [ ] Done Criteria*
 * [ ] Personas*
-* Stakeholder(s)
-* Epic(s)
-* Business Requirements
+* [ ] Stakeholder(s)
+* [ ] Epic(s)
+* [ ] Business Requirements
 * Laws and Regulations
 * Applicable Contracts
 
@@ -240,18 +236,18 @@ Recommendations
 
 TOOLS
 * [ ] User Story Writing Expertise*
-* User Story Workshops
-* User Group Meetings
-* Focus Group Meetings
-* Customer or User Interviews
-* Questionnaires
-* User Story Estimation Methods
+* [ ] User Story Workshops
+* [ ] User Group Meetings
+* [ ] Focus Group Meetings
+* [ ] Customer or User Interviews
+* [ ] Questionnaires
+* [ ] User Story Estimation Methods
 
 OUTPUTS
 * [ ] User Stories*
 * [ ] User Story Acceptance Criteria*
 * Updated Prioritized Product Backlog
-* Updated or Refined Personas
+* [ ] Updated or Refined Personas
 
 ## Approve, Estimate, and Commit User Stories (9.2)
 
@@ -264,9 +260,9 @@ Recommendations
 
 TOOLS (User Story Estimation Methods)
 * [ ] User Group Meetings*
-* Planning Poker
-* Fist of Five
-* Points for Cost Estimation
+* [ ] Planning Poker
+* [ ] Fist of Five
+* [ ] Points for Cost Estimation
 * Other Estimation Techniques: (Wideband Delphi, Relative Sizing/Story Points, Affinity Estimation, Estimate Range)
 
 OUTPUTS
@@ -280,21 +276,21 @@ INPUTS
 
 TOOLS
 * [ ] Task Planning Meetings*: Figure 9-9: Task Planning Meetings (a.k.a Sprint Planning Meeting, similar to Task Estimation Meeting)
-* Index Cards
-* Decomposition
-* Dependency Determination: (Mandatory dependencies, Discretionary dependencies, External dependencies, Internal dependencies) 
+* [ ] Index Cards
+* [ ] Decomposition
+* [ ] Dependency Determination: (Mandatory dependencies, Discretionary dependencies, External dependencies, Internal dependencies) 
 
 OUTPUTS
 * [ ] Task List*
-* Updated Approved, Estimated, and Committed User Stories 
-* Dependencies
+* [ ] Updated Approved, Estimated, and Committed User Stories 
+* [ ] Dependencies
 
 ## Estimate Tasks (9.4)
 
 INPUTS
 * [ ] Scrum Core Team*
 * [ ] Task List*
-* User Story Acceptance Criteria
+* [ ] User Story Acceptance Criteria
 * Dependencies
 * Identified Risks
 
@@ -309,7 +305,7 @@ TOOLS
 
 OUTPUTS
 * [ ] Effort Estimated Task List*
-* Updated Task List
+* [ ] Updated Task List
 
 ## Create Sprint Backlog (9.5)
 
