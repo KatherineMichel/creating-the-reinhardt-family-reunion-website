@@ -107,54 +107,54 @@ OUTPUTS
 
 Form Scrum Team (8.3)
 INPUTS
-1. Product Owner*
-2. Scrum Master*
-3. Project Vision Statement*
-4. Chief Product Owner
-5. People Requirements
-6. People Availability and
+* Product Owner*
+* Scrum Master*
+* Project Vision Statement*
+* Chief Product Owner
+* People Requirements
+* People Availability and
 Commitment 
-7. Organizational Resource Matrix
-8. Skills Requirement Matrix
-9. Resource Requirements
+* Organizational Resource Matrix
+* Skills Requirement Matrix
+* Resource Requirements
 Recommendations
 TOOLS
-1. Scrum Team Selection*
-2. Expert Advice from HR
-3. People Costs
-4. Training and Training Costs 
-5. Resource Costs
+* Scrum Team Selection*
+* Expert Advice from HR
+* People Costs
+* Training and Training Costs 
+* Resource Costs
 OUTPUTS
-1. Identified Scrum Team* 
-2. Back-up Persons
-3. Collaboration Plan
-4. Team Building Plan
+* Identified Scrum Team* 
+* Back-up Persons
+* Collaboration Plan
+* Team Building Plan
 
 Develop Epic(s) (8.4)
 INPUTS
-1. Scrum Core Team*
-2. Project Vision Statement*
-3. Stakeholder(s)
-4. Program Product Backlog
-5. Approved Change Requests
-6. Unapproved Change Requests
-7. Program and Portfolio Risks
-8. Laws and Regulations
-9. Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
-10. Previous Project Information 
+* Scrum Core Team*
+* Project Vision Statement*
+* Stakeholder(s)
+* Program Product Backlog
+* Approved Change Requests
+* Unapproved Change Requests
+* Program and Portfolio Risks
+* Laws and Regulations
+* Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
+* Previous Project Information 
 Recommendations
 TOOLS
-1. User Group Meetings*
-2. User Story Workshops
-3. Focus Group Meetings
-4. User or Customer Interviews
-5. Questionnaires
-6. Risk Identification Techniques
+* User Group Meetings*
+* User Story Workshops
+* Focus Group Meetings
+* User or Customer Interviews
+* Questionnaires
+* Risk Identification Techniques
 OUTPUTS
-1. Epic(s)* 
-2. Personas*: Creating a Persona
-3. Approved Changes
-4. Identified Risks
+* Epic(s)* 
+* Personas*: Creating a Persona
+* Approved Changes
+* Identified Risks
 
 Create Prioritized Product Backlog (8.5)
 INPUTS
