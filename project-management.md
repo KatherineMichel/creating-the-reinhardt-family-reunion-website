@@ -39,71 +39,71 @@ Figure 10-5: Scrumboard
 
 Create Project Vision (8.1)
 INPUTS
-1. Project Business Case*
-2. Program Product Owner
-3. Program Scrum Master
-4. Program Stakeholder(s)
-5. Chief Product Owner
-6. Program Product Backlog
-7. Trial Project
-8. Proof of Concept
-9. Company Vision
-10. Company Mission
-11. Market Study
+* Project Business Case*
+* Program Product Owner
+* Program Scrum Master
+* Program Stakeholder(s)
+* Chief Product Owner
+* Program Product Backlog
+* Trial Project
+* Proof of Concept
+* Company Vision
+* Company Mission
+* Market Study
 Recommendations
 TOOLS
-1. Project Vision Meeting*
-2. JAD Sessions
-3. SWOT Analysis
-4. Gap Analysis: Figure 8-5: The Gap Analysis Process
+* Project Vision Meeting*
+* JAD Sessions
+* SWOT Analysis
+* Gap Analysis: Figure 8-5: The Gap Analysis Process
 OUTPUTS
-1. Identified Product Owner*
-2. Project Vision Statement*
-3. Project Charter
-4. Project Budget
+* Identified Product Owner*
+* Project Vision Statement*
+* Project Charter
+* Project Budget
 
 Identify Scrum Master and Stakeholder(s) (8.2)
 INPUTS
-1. Scrum Core Team*
-2. Project Vision Statement*
-3. Stakeholder(s)
-4. Program Product Backlog
-5. Approved Change Requests
-6. Unapproved Change Requests
-7. Program and Portfolio Risks
-8. Laws and Regulations
-9. Applicable Contracts
-10. Previous Project Information
+* Scrum Core Team*
+* Project Vision Statement*
+* Stakeholder(s)
+* Program Product Backlog
+* Approved Change Requests
+* Unapproved Change Requests
+* Program and Portfolio Risks
+* Laws and Regulations
+* Applicable Contracts
+* Previous Project Information
 Recommendations
 TOOLS
-1. User Group Meetings*
-2. User Story Workshops
-3. Focus Group Meetings
-4. User or Customer Interviews
-5. Questionnaires
-6. Risk Identification Techniques
+* User Group Meetings*
+* User Story Workshops
+* Focus Group Meetings
+* User or Customer Interviews
+* Questionnaires
+* Risk Identification Techniques
 INPUTS
-1. Product Owner*
-2. Project Vision Statement*
-3. Program Product Owner
-4. Program Scrum Master
-5. Chief Product Owner
-6. Chief Scrum Master
-7. Program Stakeholder(s)
-8. People Requirements
-9. People Availability and Commitment 
+* Product Owner*
+* Project Vision Statement*
+* Program Product Owner
+* Program Scrum Master
+* Chief Product Owner
+* Chief Scrum Master
+* Program Stakeholder(s)
+* People Requirements
+* People Availability and Commitment 
 Commitment
-10. Organizational Resource Matrix
-11. Skills Requirement Matrix
+* Organizational Resource Matrix
+* Skills Requirement Matrix
 Recommendations
 TOOLS
-1. Selection Criteria*
-2. Expert Advice from HR
-3. Training and Training Costs 
-4. Resource Costs
+* Selection Criteria*
+* Expert Advice from HR
+* Training and Training Costs 
+* Resource Costs
 OUTPUTS
-1. Identified Scrum Master* 
-2. Identified Stakeholder(s)*
+* Identified Scrum Master* 
+* Identified Stakeholder(s)*
 
 Form Scrum Team (8.3)
 INPUTS
