@@ -371,78 +371,86 @@ OUTPUTS
 ## Conduct Daily Standup (10.2)
 
 INPUTS
-1. Scrum Team*
-2. Scrum Master*
-3. Sprint Burndown Chart*
-4. Impediment Log*
-5. Product Owner
-6. Previous Work Day Experience 
-7. Scrumboard
-8. Dependencies
+* Scrum Team*
+* Scrum Master*
+* Sprint Burndown Chart*
+* Impediment Log*
+* Product Owner
+* Previous Work Day Experience 
+* Scrumboard
+* Dependencies
+
 Recommendations
-1. Daily Standup Meeting*
-2. Three Daily Questions*
-3. War Room
-4. Video Conferencing
+* Daily Standup Meeting*
+* Three Daily Questions*
+* War Room
+* Video Conferencing
+
 OUTPUTS
-1. Updated Sprint Burndown Chart* 
-2. Updated Impediment Log*
-3. Motivated Scrum Team
-4. Updated Scrumboard
-5. Unapproved Change Requests OUTPUTS
-6. Identified Risks
-7. Mitigated Risks
-8. Updated Dependencies
+* Updated Sprint Burndown Chart* 
+* Updated Impediment Log*
+* Motivated Scrum Team
+* Updated Scrumboard
+* Unapproved Change Requests OUTPUTS
+* Identified Risks
+* Mitigated Risks
+* Updated Dependencies
 
-Conduct Daily Standup (10.2) TOOLS ???????
-1. Daily Standup Meeting* 
-2. Three Daily Questions*
+## Conduct Daily Standup (10.2) TOOLS ???????
+* Daily Standup Meeting* 
+* Three Daily Questions*
 
-Groom Prioritized Product Backlog (10.3)
+## Groom Prioritized Product Backlog (10.3)
+
 INPUTS
-1. Scrum Core Team*
-2. Prioritized Product Backlog*
-3. Rejected Deliverables
-4. Approved Change Requests
-5. Unapproved Change Requests
-6. Identified Risks
-7. Updated Program Product Backlog 
-8. Retrospect Sprint Log(s)
-9. Dependencies
-10. ReleasePlanningSchedule
+* Scrum Core Team*
+* Prioritized Product Backlog*
+* Rejected Deliverables
+* Approved Change Requests
+* Unapproved Change Requests
+* Identified Risks
+* Updated Program Product Backlog 
+* Retrospect Sprint Log(s)
+* Dependencies
+* ReleasePlanningSchedule
+
 TOOLS
-1. Prioritized Product Backlog Review Meetings*
-2. Communication Techniques
-3. Other Prioritized Product Backlog
+* Prioritized Product Backlog Review Meetings*
+* Communication Techniques
+* Other Prioritized Product Backlog
 Grooming Techniques 
-OUTPUTS
-1. Updated Prioritized Product Backlog* 
-2. Updated Release Planning Schedule
 
-Conduct Daily Standup (10.2)
-INPUTS
-1. Scrum Team*
-2. Scrum Master*
-3. Sprint Burndown Chart*
-4. Impediment Log*
-5. Product Owner
-6. Previous Work Day Experience
-7. Scrumboard
-8. Dependencies
-TOOLS
-1. Daily Standup Meeting*
-2. Three Daily Questions*
-3. War Room
-4. Video Conferencing
 OUTPUTS
-1. Updated Sprint Burndown Chart*
-2. Updated Impediment Log*
-3. Motivated Scrum Team
-4. Updated Scrumboard
-5. Unapproved Change Requests
-6. Identified Risks
-7. Mitigated Risks
-8. Updated Dependencies
+* Updated Prioritized Product Backlog* 
+* Updated Release Planning Schedule
+
+## Conduct Daily Standup (10.2)
+
+INPUTS
+* Scrum Team*
+* Scrum Master*
+* Sprint Burndown Chart*
+* Impediment Log*
+* Product Owner
+* Previous Work Day Experience
+* Scrumboard
+* Dependencies
+
+TOOLS
+* Daily Standup Meeting*
+* Three Daily Questions*
+* War Room
+* Video Conferencing
+
+OUTPUTS
+* Updated Sprint Burndown Chart*
+* Updated Impediment Log*
+* Motivated Scrum Team
+* Updated Scrumboard
+* Unapproved Change Requests
+* Identified Risks
+* Mitigated Risks
+* Updated Dependencies
 
 Three Daily Questions*
 Daily Standup Meeting
@@ -450,28 +458,32 @@ What did I complete yesterday?
 What will I complete today?
 What impediments or obstacles (if any) am I currently facing?
 
-Groom Prioritized Product Backlog (10.3)
+## Groom Prioritized Product Backlog (10.3)
+
 INPUTS
-1. Scrum Core Team*
-2. Prioritized Product Backlog*
-3. Rejected Deliverables
-4. Approved Change Requests
-5. Unapproved Change Requests
-6. Identified Risks
-7. Updated Program Product
+* Scrum Core Team*
+* Prioritized Product Backlog*
+* Rejected Deliverables
+* Approved Change Requests
+* Unapproved Change Requests
+* Identified Risks
+* Updated Program Product
+
 Backlog
-8. Retrospect Sprint Log(s)
-9. Dependencies
-10. Release Planning Schedule
+* Retrospect Sprint Log(s)
+* Dependencies
+* Release Planning Schedule
+
 Recommendations
 TOOLS
-1. Prioritized Product Backlog Review Meetings*
-2. Communication Techniques
-3. Other Prioritized Product Backlog
+* Prioritized Product Backlog Review Meetings*
+* Communication Techniques
+* Other Prioritized Product Backlog
 Grooming Techniques
+
 OUTPUTS
-1. Updated Prioritized Product Backlog*
-2. Updated Release Planning Schedule
+* Updated Prioritized Product Backlog*
+* Updated Release Planning Schedule
 
 Other Prioritized Product Backlog Grooming Techniques
 Some other Prioritized Product Backlog Grooming tools include many of the same tools used for the following processes:
@@ -483,7 +495,8 @@ Approve, Estimate, and Commit User Stories—Described in section 9.2.2.
 Create Tasks—Described in section 9.3.2.
 Estimate Tasks—Described in section 9.4.2.
 
-Convene Scrum of Scrums (11.1)
+## Convene Scrum of Scrums (11.1)
+
 INPUTS
 1. Scrum Master or Scrum Team Representatives*
 2. Chief Scrum Master
