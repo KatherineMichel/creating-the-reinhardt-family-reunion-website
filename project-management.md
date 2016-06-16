@@ -112,7 +112,7 @@ Figure 8-1: Initiate Overview
 Figure 8-2: Initiate Overview (Essentials)
 Figure 8-3: Create Project Vision—Inputs, Tools, and Outputs
 
-8.1 Create Project Vision
+Create Project Vision (8.1)
 INPUTS
 1. Project Business Case*
 2. Program Product Owner
@@ -138,7 +138,7 @@ OUTPUTS
 3. Project Charter
 4. Project Budget
 
-8.2 Identify Scrum Master and Stakeholder(s)
+Identify Scrum Master and Stakeholder(s) (8.2)
 Figure 8-6: Identify Scrum Master and Stakeholder(s)—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -185,7 +185,7 @@ OUTPUTS
 1. Identified Scrum Master* 
 2. Identified Stakeholder(s)*
 
-8.3 Form Scrum Team
+Form Scrum Team (8.3)
 Figure 8-8: Form Scrum Team—Inputs, Tools, and Outputs
 INPUTS
 1. Product Owner*
@@ -212,7 +212,7 @@ OUTPUTS
 3. Collaboration Plan
 4. Team Building Plan
 
-8.4 Develop Epic(s)
+Develop Epic(s) (8.4)
 Figure 8-10: Develop Epic(s)—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -241,7 +241,7 @@ OUTPUTS
 3. Approved Changes
 4. Identified Risks
 
-8.5 Create Prioritized Product Backlog
+Create Prioritized Product Backlog (8.5)
 Figure 8-12: Create Prioritized Product Backlog—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team* 
@@ -268,7 +268,7 @@ OUTPUTS
 1. Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
 2. Done Criteria*
 
-8.6 Conduct Release Planning
+Conduct Release Planning (8.6)
 Figure 8-14: Conduct Release Planning—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -324,7 +324,7 @@ OUTPUTS
 3. Updated Prioritized Product Backlog
 4. Updated or Refined Personas
 
-9.2 Approve, Estimate, and Commit User Stories
+Approve, Estimate, and Commit User Stories (9.2)
 Figure 9-5: Approve, Estimate, and Commit User Stories—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -342,7 +342,7 @@ TOOLS (User Story Estimation Methods)
 OUTPUTS
 1. Approved, Estimated, and Committed User Stories*
 
-9.3 Create Tasks
+Create Tasks (9.3)
 Figure 9-7: Create Tasks—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -357,7 +357,7 @@ OUTPUTS
 2. Updated Approved, Estimated, and Committed User Stories 
 3. Dependencies
 
-9.4 Estimate Tasks
+Estimate Tasks (9.4)
 Figure 9-10: Estimate Tasks—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -377,7 +377,7 @@ OUTPUTS
 1. Effort Estimated Task List*
 2. Updated Task List
 
-9.5 Create Sprint Backlog
+Create Sprint Backlog (9.5)
 Figure 9-12: Create Sprint Backlog—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -408,7 +408,7 @@ OUTPUTS
 1. Sprint Backlog*
 2. Sprint Burndown Chart*
 
-10.1 Create Deliverables
+Create Deliverables (10.1)
 Figure 10-1: Implement Overview
 Figure 10-2: Implement Overview (Essentials)
 Figure 10-3: Create Deliverables—Inputs, Tools, and Outputs
@@ -434,7 +434,7 @@ OUTPUTS
 6. Mitigated Risks
 7. Updated Dependencies
 
-10.2 Conduct Daily Standup
+Conduct Daily Standup (10.2)
 INPUTS
 1. Scrum Team*
 2. Scrum Master*
@@ -459,11 +459,11 @@ OUTPUTS
 7. Mitigated Risks
 8. Updated Dependencies
 
-10.2 Conduct Daily Standup TOOLS ???????
+Conduct Daily Standup (10.2) TOOLS ???????
 1. Daily Standup Meeting* 
 2. Three Daily Questions*
 
-10.3 Groom Prioritized Product Backlog
+Groom Prioritized Product Backlog (10.3)
 INPUTS
 1. Scrum Core Team*
 2. Prioritized Product Backlog*
@@ -487,9 +487,8 @@ OUTPUTS
 
 Figure 10-5: Scrumboard
 
-10.2 ConductDailyStandup
+Conduct Daily Standup (10.2)
 Figure 10-6: Conduct Daily Standup—Inputs, Tools, and Outputs
-
 INPUTS
 1. Scrum Team*
 2. Scrum Master*
@@ -520,7 +519,7 @@ What did I complete yesterday?
 What will I complete today?
 What impediments or obstacles (if any) am I currently facing?
 
-10.3 GroomPrioritizedProductBacklog
+Groom Prioritized Product Backlog (10.3)
 Figure 10-8: Groom Prioritized Product Backlog—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Core Team*
@@ -555,7 +554,7 @@ Approve, Estimate, and Commit User Stories—Described in section 9.2.2.
 Create Tasks—Described in section 9.3.2.
 Estimate Tasks—Described in section 9.4.2.
 
-11.1 Convene Scrum of Scrums
+Convene Scrum of Scrums (11.1)
 Figure 11-1: Review and Retrospect Overview
 Figure 11-2: Review and Retrospect Overview (Essentials)
 Figure 11-3: Convene Scrum of Scrums—Inputs, Tools, and Outputs
@@ -586,7 +585,7 @@ Each Scrum Team representative will provide updates from his or her team in turn
 3) What were other teams counting on our team to finish that remains undone?
 4) What is our team planning on doing that might affect other teams?
 
-11.2 Demonstrate and Validate Sprint
+Demonstrate and Validate Sprint (11.2)
 Figure 11-5: Demonstrate and Validate Sprint—Inputs, Tools, and Outputs
 INPUTS 
 1. Scrum Core Team* 
@@ -612,7 +611,7 @@ OUTPUTS
 5. Updated Release Planning Schedule 
 6. Updated Dependencies
 
-11.3 Retrospect Sprint
+Retrospect Sprint (11.3)
 Figure 11-7: Retrospect Sprint—Inputs, Tools, and Outputs
 INPUTS
 1. Scrum Master*
@@ -640,7 +639,7 @@ OUTPUTS
 2) Things the team needs to begin doing: process improvements
 3) Things the team needs to stop doing: process problems and bottlenecks
 
-12.1 Ship Deliverables
+Ship Deliverables (12.1)
 Figure 12-2: Release Overview (Essentials)
 Figure 12-3: Ship Deliverables—Inputs, Tools, and Outputs
 INPUTS
@@ -662,7 +661,7 @@ OUTPUTS
 2. Working Deliverables
 3. Product Releases (Release Content, Release Notes)
 
-12.2 Retrospect Project ??????
+Retrospect Project (12.2) ??????
 Figure 12-1: Release Overview
 INPUTS
 1. Product Owner*
@@ -683,7 +682,7 @@ OUTPUTS
 2. Working Deliverables
 3. Product Releases
 
-12.2 Retrospect Project ???????
+Retrospect Project (12.2) ???????
 Figure 12-5: Retrospect Project—Inputs, Tools, and Outputs
 1. Scrum Core Team(s)* 
 2. Chief Scrum Master 
@@ -704,4 +703,3 @@ OUTPUTS
 Explorer—Shopper—Vacationer—Prisoner (ESVP) exercise
 Speed Boat
 Metrics and Measuring Techniques
-
