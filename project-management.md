@@ -57,6 +57,8 @@ Figure 10-5: Scrumboard
 * [ ] Dependencies
 * Updated Dependencies
 
+Recommendations
+
 ## Create Project Vision (8.1)
 
 INPUTS
@@ -66,8 +68,6 @@ INPUTS
 * Company Vision
 * Company Mission
 * Market Study
-
-Recommendations
 
 TOOLS
 * [ ] Project Vision Meeting*
@@ -88,16 +88,12 @@ INPUTS
 * Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
 * Previous Project Information
 
-Recommendations
-
 INPUTS
 * [ ] People Requirements
 * [ ] People Availability and Commitment 
 
 Commitment
 * [ ] Skills Requirement Matrix
-
-Recommendations
 
 TOOLS
 * [ ] Selection Criteria*
@@ -116,8 +112,6 @@ INPUTS
 
 * Resource Requirements
 
-Recommendations
-
 TOOLS
 * [ ] Scrum Team Selection*
 * People Costs
@@ -129,8 +123,6 @@ OUTPUTS
 * Team Building Plan
 
 ## Develop Epic(s) (8.4)
-
-Recommendations
 
 TOOLS
 * [ ] User Group Meetings*
@@ -148,8 +140,6 @@ OUTPUTS
 INPUTS
 * [ ] Epic(s)*
 * [ ] Personas*
-
-Recommendations
 
 TOOLS
 * [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
@@ -171,8 +161,6 @@ INPUTS
 
 * Holiday Calendar
 
-Recommendations
-
 TOOLS
 * [ ] Release Planning Sessions*
 * [ ] Release Prioritization Methods*
@@ -190,8 +178,6 @@ INPUTS
 * [ ] Done Criteria*
 * [ ] Personas*
 * [ ] Epic(s)
-
-Recommendations
 
 TOOLS
 * [ ] User Story Writing Expertise*
@@ -213,8 +199,6 @@ OUTPUTS
 INPUTS
 * [ ] User Stories*
 * [ ] User Story Acceptance Criteria* 
-
-Recommendations
 
 TOOLS (User Story Estimation Methods)
 * [ ] User Group Meetings*
@@ -247,8 +231,6 @@ INPUTS
 * [ ] Task List*
 * [ ] User Story Acceptance Criteria
 
-Recommendations
-
 TOOLS
 * [ ] Task Estimation Meetings*
 * [ ] Estimation Criteria*
@@ -265,8 +247,6 @@ OUTPUTS
 INPUTS
 * [ ] Task List*
 * User Story Acceptance Criteria
-
-Recommendations
 
 TOOLS
 * [ ] Task Estimation Meetings*
@@ -389,7 +369,6 @@ Backlog
 * Retrospect Sprint Log(s)
 * Release Planning Schedule
 
-Recommendations
 TOOLS
 * [ ] Prioritized Product Backlog Review Meetings*
 * Communication Techniques
@@ -447,8 +426,6 @@ INPUTS
 * Stakeholder(s)
 * Release Planning Schedule
 
-Recommendations
-
 TOOLS
 * [ ] Sprint Review Meetings*
 * Earned Value Analysis
@@ -464,7 +441,6 @@ OUTPUTS
 INPUTS
 * [ ] Outputs from Demonstrate and Validate Sprint*
 
-Recommendations
 TOOLS
 * [ ] Retrospect Sprint Meeting*
 * ESVP (Explorer—Shopper—Vacationer—Prisoner (ESVP))
@@ -492,7 +468,6 @@ INPUTS
 * User Story Acceptance Criteria
 * Piloting Plan
 
-Recommendations
 TOOLS
 * [ ] Organizational Deployment Methods*
 * Communication Plan
@@ -511,7 +486,6 @@ INPUTS
 * User Story Acceptance Criteria
 * Piloting Plan
 
-Recommendations
 TOOLS
 * [ ] Organizational Deployment Methods*
 * Communication Plan
