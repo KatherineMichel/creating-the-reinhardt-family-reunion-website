@@ -40,6 +40,9 @@ Figure 10-5: Scrumboard
 * Approved Change Requests
 * Unapproved Change Requests
 
+* Identified Risks
+* Mitigated Risks
+
 ## Create Project Vision (8.1)
 
 INPUTS
@@ -70,10 +73,9 @@ INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
-* Program Product Backlog
-* Program and Portfolio Risks
+
 * Laws and Regulations
-* Applicable Contracts
+* Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
 * Previous Project Information
 
 Recommendations
@@ -94,14 +96,12 @@ INPUTS
 * [ ] People Availability and Commitment 
 
 Commitment
-* Organizational Resource Matrix
 * [ ] Skills Requirement Matrix
 
 Recommendations
 
 TOOLS
 * [ ] Selection Criteria*
-* Expert Advice from HR
 * [ ] Training and Training Costs 
 * Resource Costs
 
@@ -116,21 +116,13 @@ INPUTS
 * [ ] Scrum Master*
 * [ ] Project Vision Statement*
 
-* People Requirements
-* People Availability and Commitment 
-
-* Organizational Resource Matrix
-* Skills Requirement Matrix
 * Resource Requirements
 
 Recommendations
 
 TOOLS
 * [ ] Scrum Team Selection*
-* Expert Advice from HR
 * People Costs
-* Training and Training Costs 
-* Resource Costs
 
 OUTPUTS
 * [ ] Identified Scrum Team* 
@@ -144,10 +136,7 @@ INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
-* Laws and Regulations
-* Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
-* Previous Project Information 
-
+ 
 Recommendations
 
 TOOLS
@@ -161,7 +150,6 @@ TOOLS
 OUTPUTS
 * [ ] Epic(s)* 
 * [ ] Personas*: Creating a Persona
-* [ ] Approved Changes
 * [ ] Identified Risks
 
 ## Create Prioritized Product Backlog (8.5)
@@ -172,11 +160,7 @@ INPUTS
 * [ ] Personas*
 * [ ] Stakeholder(s)
 * [ ] Project Vision Statement
-* Program Product Backlog 
 * [ ] Business Requirements
-* [ ] Approved Change Requests 
-* [ ] Identified Risks
-* Applicable Contracts 
 
 Recommendations
 
@@ -201,7 +185,6 @@ INPUTS
 * [ ] Prioritized Product Backlog* 
 * [ ] Done Criteria*
 
-* Business Requirements
 * Holiday Calendar
 
 Recommendations
@@ -226,8 +209,6 @@ INPUTS
 * [ ] Stakeholder(s)
 * [ ] Epic(s)
 * [ ] Business Requirements
-* Laws and Regulations
-* Applicable Contracts
 
 Recommendations
 
@@ -289,7 +270,6 @@ INPUTS
 * [ ] Task List*
 * [ ] User Story Acceptance Criteria
 * Dependencies
-* Identified Risks
 
 Recommendations
 
@@ -311,7 +291,6 @@ INPUTS
 * [ ] Task List*
 * User Story Acceptance Criteria
 * Dependencies
-* Identified Risks
 
 Recommendations
 
@@ -358,9 +337,6 @@ OUTPUTS
 * [ ] Sprint Deliverables*
 * [ ] Updated Scrumboard*
 * [ ] Updated Impediment Log*
-* Unapproved Change Requests
-* Identified Risks
-* Mitigated Risks
 * Updated Dependencies
 
 ## Conduct Daily Standup (10.2)
@@ -386,9 +362,7 @@ OUTPUTS
 * [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
-* Unapproved Change Requests OUTPUTS
-* Identified Risks
-* Mitigated Risks
+OUTPUTS
 * Updated Dependencies
 
 ## Conduct Daily Standup (10.2) TOOLS ???????
@@ -401,9 +375,6 @@ INPUTS
 * [ ] Scrum Core Team*
 * [ ] Prioritized Product Backlog*
 * Rejected Deliverables
-* Approved Change Requests
-* Unapproved Change Requests
-* Identified Risks
 * Updated Program Product Backlog 
 * Retrospect Sprint Log(s)
 * Dependencies
@@ -442,9 +413,6 @@ OUTPUTS
 * [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
-* Unapproved Change Requests
-* Identified Risks
-* Mitigated Risks
 * Updated Dependencies
 
 Three Daily Questions*
@@ -459,10 +427,6 @@ INPUTS
 * [ ] Scrum Core Team*
 * [ ] Prioritized Product Backlog*
 * Rejected Deliverables
-* Approved Change Requests
-* Unapproved Change Requests
-* Identified Risks
-* Updated Program Product
 
 Backlog
 * Retrospect Sprint Log(s)
@@ -529,7 +493,6 @@ INPUTS
 * [ ] User Story Acceptance Criteria* 
 * Stakeholder(s)
 * Release Planning Schedule
-* Identified Risks
 * Dependencies
 
 Recommendations
