@@ -40,7 +40,7 @@ Figure 10-5: Scrumboard
 ## Create Project Vision (8.1)
 
 INPUTS
-* Project Business Case*
+* [ ] Project Business Case*
 * Program Product Owner
 * Program Scrum Master
 * Program Stakeholder(s)
@@ -54,22 +54,22 @@ INPUTS
 
 Recommendations
 TOOLS
-* Project Vision Meeting*
+* [ ] Project Vision Meeting*
 * JAD Sessions
 * SWOT Analysis
 * Gap Analysis: Figure 8-5: The Gap Analysis Process
 
 OUTPUTS
-* Identified Product Owner*
-* Project Vision Statement*
+* [ ] Identified Product Owner*
+* [ ] Project Vision Statement*
 * Project Charter
 * Project Budget
 
 ## Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
-* Scrum Core Team*
-* Project Vision Statement*
+* [ ] Scrum Core Team*
+* [ ] Project Vision Statement*
 * Stakeholder(s)
 * Program Product Backlog
 * Approved Change Requests
@@ -81,7 +81,7 @@ INPUTS
 
 Recommendations
 TOOLS
-* User Group Meetings*
+* [ ] User Group Meetings*
 * User Story Workshops
 * Focus Group Meetings
 * User or Customer Interviews
@@ -89,8 +89,8 @@ TOOLS
 * Risk Identification Techniques
 
 INPUTS
-* Product Owner*
-* Project Vision Statement*
+* [ ] Product Owner*
+* [ ] Project Vision Statement*
 * Program Product Owner
 * Program Scrum Master
 * Chief Product Owner
@@ -105,21 +105,21 @@ Commitment
 
 Recommendations
 TOOLS
-* Selection Criteria*
+* [ ] Selection Criteria*
 * Expert Advice from HR
 * Training and Training Costs 
 * Resource Costs
 
 OUTPUTS
-* Identified Scrum Master* 
-* Identified Stakeholder(s)*
+* [ ] Identified Scrum Master* 
+* [ ] Identified Stakeholder(s)*
 
 ## Form Scrum Team (8.3)
 
 INPUTS
-* Product Owner*
-* Scrum Master*
-* Project Vision Statement*
+* [ ] Product Owner*
+* [ ] Scrum Master*
+* [ ] Project Vision Statement*
 * Chief Product Owner
 * People Requirements
 * People Availability and
@@ -131,14 +131,14 @@ Commitment
 
 Recommendations
 TOOLS
-* Scrum Team Selection*
+* [ ] Scrum Team Selection*
 * Expert Advice from HR
 * People Costs
 * Training and Training Costs 
 * Resource Costs
 
 OUTPUTS
-* Identified Scrum Team* 
+* [ ] Identified Scrum Team* 
 * Back-up Persons
 * Collaboration Plan
 * Team Building Plan
@@ -146,8 +146,8 @@ OUTPUTS
 ## Develop Epic(s) (8.4)
 
 INPUTS
-* Scrum Core Team*
-* Project Vision Statement*
+* [ ] Scrum Core Team*
+* [ ] Project Vision Statement*
 * Stakeholder(s)
 * Program Product Backlog
 * Approved Change Requests
@@ -159,7 +159,7 @@ INPUTS
 
 Recommendations
 TOOLS
-* User Group Meetings*
+* [ ] User Group Meetings*
 * User Story Workshops
 * Focus Group Meetings
 * User or Customer Interviews
@@ -167,17 +167,17 @@ TOOLS
 * Risk Identification Techniques
 
 OUTPUTS
-* Epic(s)* 
-* Personas*: Creating a Persona
+* [ ] Epic(s)* 
+* [ ] Personas*: Creating a Persona
 * Approved Changes
 * Identified Risks
 
 ## Create Prioritized Product Backlog (8.5)
 
 INPUTS
-* Scrum Core Team* 
-* Epic(s)*
-* Personas*
+* [ ] Scrum Core Team* 
+* [ ] Epic(s)*
+* [ ] Personas*
 * Stakeholder(s)
 * Project Vision Statement
 * Program Product Backlog 
@@ -188,7 +188,7 @@ INPUTS
 
 Recommendations
 TOOLS
-* User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
+* [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
 * User Story Workshops
 * Planning for Value
 * Risk Assessment Techniques
@@ -196,17 +196,17 @@ TOOLS
 * User Story Estimation Methods
 
 OUTPUTS
-* Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
-* Done Criteria*
+* [ ] Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
+* [ ] Done Criteria*
 
 ## Conduct Release Planning (8.6)
 
 INPUTS
-* Scrum Core Team*
-* Stakeholder(s)*
-* Project Vision Statement* 
-* Prioritized Product Backlog* 
-* Done Criteria*
+* [ ] Scrum Core Team*
+* [ ] Stakeholder(s)*
+* [ ] Project Vision Statement* 
+* [ ] Prioritized Product Backlog* 
+* [ ] Done Criteria*
 * Program Product Owner
 * Program Scrum Master
 * Chief Product Owner
@@ -216,22 +216,22 @@ INPUTS
 
 Recommendations
 TOOLS
-* Release Planning Sessions*
-* Release Prioritization Methods*
+* [ ] Release Planning Sessions*
+* [ ] Release Prioritization Methods*
 
 OUTPUTS
-* Release Planning Schedule*
-* Length of Sprint*
+* [ ] Release Planning Schedule*
+* [ ] Length of Sprint*
 * Target Customers for Release
 * Refined Prioritized Product Backlog
 
 ## 9.1 Create User Stories
 
 INPUTS
-* Scrum Core Team*
-* Prioritized Product Backlog*
-* Done Criteria*
-* Personas*
+* [ ] Scrum Core Team*
+* [ ] Prioritized Product Backlog*
+* [ ] Done Criteria*
+* [ ] Personas*
 * Stakeholder(s)
 * Epic(s)
 * Business Requirements
@@ -240,7 +240,7 @@ INPUTS
 
 Recommendations
 TOOLS
-* User Story Writing Expertise*
+* [ ] User Story Writing Expertise*
 * User Story Workshops
 * User Group Meetings
 * Focus Group Meetings
@@ -249,120 +249,120 @@ TOOLS
 * User Story Estimation Methods
 
 OUTPUTS
-* User Stories*
-* User Story Acceptance Criteria*
+* [ ] User Stories*
+* [ ] User Story Acceptance Criteria*
 * Updated Prioritized Product Backlog
 * Updated or Refined Personas
 
 ## Approve, Estimate, and Commit User Stories (9.2)
 
 INPUTS
-* Scrum Core Team*
-* User Stories*
-* User Story Acceptance Criteria* 
+* [ ] Scrum Core Team*
+* [ ] User Stories*
+* [ ] User Story Acceptance Criteria* 
 
 Recommendations
 TOOLS (User Story Estimation Methods)
-* User Group Meetings*
+* [ ] User Group Meetings*
 * Planning Poker
 * Fist of Five
 * Points for Cost Estimation
 * Other Estimation Techniques: (Wideband Delphi, Relative Sizing/Story Points, Affinity Estimation, Estimate Range)
 
 OUTPUTS
-* Approved, Estimated, and Committed User Stories*
+* [ ] Approved, Estimated, and Committed User Stories*
 
 ## Create Tasks (9.3)
 
 INPUTS
-* Scrum Core Team*
-* Approved, Estimated, and Committed User Stories*
+* [ ] Scrum Core Team*
+* [ ] Approved, Estimated, and Committed User Stories*
 
 TOOLS
-* Task Planning Meetings*: Figure 9-9: Task Planning Meetings (a.k.a Sprint Planning Meeting, similar to Task Estimation Meeting)
+* [ ] Task Planning Meetings*: Figure 9-9: Task Planning Meetings (a.k.a Sprint Planning Meeting, similar to Task Estimation Meeting)
 * Index Cards
 * Decomposition
 * Dependency Determination: (Mandatory dependencies, Discretionary dependencies, External dependencies, Internal dependencies) 
 
 OUTPUTS
-* Task List*
+* [ ] Task List*
 * Updated Approved, Estimated, and Committed User Stories 
 * Dependencies
 
 ## Estimate Tasks (9.4)
 
 INPUTS
-* Scrum Core Team*
-* Task List*
+* [ ] Scrum Core Team*
+* [ ] Task List*
 * User Story Acceptance Criteria
 * Dependencies
 * Identified Risks
 
 Recommendations
 TOOLS
-* Task Estimation Meetings*
-* Estimation Criteria*
+* [ ] Task Estimation Meetings*
+* [ ] Estimation Criteria*
 * Planning Poker
 * Fist of Five
 * Other Task Estimation Techniques
 
 OUTPUTS
-* Effort Estimated Task List*
+* [ ] Effort Estimated Task List*
 * Updated Task List
 
 ## Create Sprint Backlog (9.5)
 
 INPUTS
-* Scrum Core Team*
-* Task List*
+* [ ] Scrum Core Team*
+* [ ] Task List*
 * User Story Acceptance Criteria
 * Dependencies
 * Identified Risks
 
 Recommendations
 TOOLS
-* Task Estimation Meetings*
-* Estimation Criteria*
+* [ ] Task Estimation Meetings*
+* [ ] Estimation Criteria*
 * Planning Poker
 * Fist of Five
 * Other Task Estimation Techniques
 
 OUTPUTS
-* Effort Estimated Task List*
+* [ ] Effort Estimated Task List*
 * Updated Task List
-* Length of Sprint*
+* [ ] Length of Sprint*
 * Previous Sprint Velocity
 * Dependencies
 * Team Calendar
 
 TOOLS
-* Sprint Planning Meetings* 
+* [ ] Sprint Planning Meetings* 
 * Sprint Tracking Tools: Velocity, Business Value Delivered, Number of Stories, ect
 * Sprint Tracking Metrics
 
 OUTPUTS
-* Sprint Backlog*
-* Sprint Burndown Chart*
+* [ ] Sprint Backlog*
+* [ ] Sprint Burndown Chart*
 
 ## Create Deliverables (10.1)
 
 INPUTS
-* Scrum Core Team*
-* Sprint Backlog*
-* Scrumboard*
-* Impediment Log*
+* [ ] Scrum Core Team*
+* [ ] Sprint Backlog*
+* [ ] Scrumboard*
+* [ ] Impediment Log*
 * Release Planning Schedule
 * Dependencies
 
 TOOLS
-* Team Expertise*
+* [ ] Team Expertise*
 * Software
 * Other Development Tools: (Refactoring, Design Patterns)
 
 OUTPUTS
-* Sprint Deliverables*
-* Updated Scrumboard*
-* Updated Impediment Log*
+* [ ] Sprint Deliverables*
+* [ ] Updated Scrumboard*
+* [ ] Updated Impediment Log*
 * Unapproved Change Requests
 * Identified Risks
 * Mitigated Risks
@@ -371,24 +371,24 @@ OUTPUTS
 ## Conduct Daily Standup (10.2)
 
 INPUTS
-* Scrum Team*
-* Scrum Master*
-* Sprint Burndown Chart*
-* Impediment Log*
+* [ ] Scrum Team*
+* [ ] Scrum Master*
+* [ ] Sprint Burndown Chart*
+* [ ] Impediment Log*
 * Product Owner
 * Previous Work Day Experience 
 * Scrumboard
 * Dependencies
 
 Recommendations
-* Daily Standup Meeting*
-* Three Daily Questions*
+* [ ] Daily Standup Meeting*
+* [ ] Three Daily Questions*
 * War Room
 * Video Conferencing
 
 OUTPUTS
-* Updated Sprint Burndown Chart* 
-* Updated Impediment Log*
+* [ ] Updated Sprint Burndown Chart* 
+* [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
 * Unapproved Change Requests OUTPUTS
@@ -397,14 +397,14 @@ OUTPUTS
 * Updated Dependencies
 
 ## Conduct Daily Standup (10.2) TOOLS ???????
-* Daily Standup Meeting* 
-* Three Daily Questions*
+* [ ] Daily Standup Meeting* 
+* [ ] Three Daily Questions*
 
 ## Groom Prioritized Product Backlog (10.3)
 
 INPUTS
-* Scrum Core Team*
-* Prioritized Product Backlog*
+* [ ] Scrum Core Team*
+* [ ] Prioritized Product Backlog*
 * Rejected Deliverables
 * Approved Change Requests
 * Unapproved Change Requests
@@ -415,36 +415,36 @@ INPUTS
 * ReleasePlanningSchedule
 
 TOOLS
-* Prioritized Product Backlog Review Meetings*
+* [ ] Prioritized Product Backlog Review Meetings*
 * Communication Techniques
 * Other Prioritized Product Backlog
 Grooming Techniques 
 
 OUTPUTS
-* Updated Prioritized Product Backlog* 
+* [ ] Updated Prioritized Product Backlog* 
 * Updated Release Planning Schedule
 
 ## Conduct Daily Standup (10.2)
 
 INPUTS
-* Scrum Team*
-* Scrum Master*
-* Sprint Burndown Chart*
-* Impediment Log*
+* [ ] Scrum Team*
+* [ ] Scrum Master*
+* [ ] Sprint Burndown Chart*
+* [ ] Impediment Log*
 * Product Owner
 * Previous Work Day Experience
 * Scrumboard
 * Dependencies
 
 TOOLS
-* Daily Standup Meeting*
-* Three Daily Questions*
+* [ ] Daily Standup Meeting*
+* [ ] Three Daily Questions*
 * War Room
 * Video Conferencing
 
 OUTPUTS
-* Updated Sprint Burndown Chart*
-* Updated Impediment Log*
+* [ ] Updated Sprint Burndown Chart*
+* [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
 * Unapproved Change Requests
@@ -461,8 +461,8 @@ What impediments or obstacles (if any) am I currently facing?
 ## Groom Prioritized Product Backlog (10.3)
 
 INPUTS
-* Scrum Core Team*
-* Prioritized Product Backlog*
+* [ ] Scrum Core Team*
+* [ ] Prioritized Product Backlog*
 * Rejected Deliverables
 * Approved Change Requests
 * Unapproved Change Requests
@@ -476,13 +476,13 @@ Backlog
 
 Recommendations
 TOOLS
-* Prioritized Product Backlog Review Meetings*
+* [ ] Prioritized Product Backlog Review Meetings*
 * Communication Techniques
 * Other Prioritized Product Backlog
 Grooming Techniques
 
 OUTPUTS
-* Updated Prioritized Product Backlog*
+* [ ] Updated Prioritized Product Backlog*
 * Updated Release Planning Schedule
 
 Other Prioritized Product Backlog Grooming Techniques
