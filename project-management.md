@@ -57,6 +57,9 @@ Figure 10-5: Scrumboard
 * [ ] Dependencies
 * Updated Dependencies
 
+* [ ] Impediment Log*
+* [ ] Updated Impediment Log*
+
 Recommendations
 
 ## Create Project Vision (8.1)
@@ -276,7 +279,6 @@ OUTPUTS
 INPUTS
 * [ ] Sprint Backlog*
 * [ ] Scrumboard*
-* [ ] Impediment Log*
 * Release Planning Schedule
 
 TOOLS
@@ -287,13 +289,11 @@ TOOLS
 OUTPUTS
 * [ ] Sprint Deliverables*
 * [ ] Updated Scrumboard*
-* [ ] Updated Impediment Log*
 
 ## Conduct Daily Standup (10.2)
 
 INPUTS
 * [ ] Sprint Burndown Chart*
-* [ ] Impediment Log*
 * Previous Work Day Experience 
 * Scrumboard
 
@@ -305,7 +305,6 @@ Recommendations
 
 OUTPUTS
 * [ ] Updated Sprint Burndown Chart* 
-* [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
 OUTPUTS
@@ -337,7 +336,6 @@ OUTPUTS
 
 INPUTS
 * [ ] Sprint Burndown Chart*
-* [ ] Impediment Log*
 * Previous Work Day Experience
 * Scrumboard
 
@@ -349,7 +347,6 @@ TOOLS
 
 OUTPUTS
 * [ ] Updated Sprint Burndown Chart*
-* [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
 
@@ -395,7 +392,6 @@ INPUTS
 * [ ] Scrum Master or Scrum Team Representatives*
 
 * Meeting Agenda
-* Impediment Log
 * Outputs from Retrospect Sprint
 
 TOOLS
@@ -407,7 +403,6 @@ TOOLS
 OUTPUTS
 * [ ] Better Team Coordination*
 * Resolved Issues
-* Updated Impediment Log
 
 11.1.2.2 Four Questions per Team*
 Each Scrum Team representative will provide updates from his or her team in turn. These updates are usually provided in the form of answers to four specific questions.
