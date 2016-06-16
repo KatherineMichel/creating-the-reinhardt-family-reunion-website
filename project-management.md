@@ -38,6 +38,10 @@ Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corr
 Figure 8-5: The Gap Analysis Process
 Figure 10-5: Scrumboard
 
+* [ ] Scrum Core Team* 
+* [ ] Scrum Team*
+* [ ] Scrum Master*
+* Product Owner
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
 * [ ] Business Requirements
@@ -76,9 +80,6 @@ OUTPUTS
 ## Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
-* [ ] Scrum Core Team*
-* [ ] Project Vision Statement*
-
 * Laws and Regulations
 * Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
 * Previous Project Information
@@ -93,9 +94,6 @@ TOOLS
 * [ ] Questionnaires
 
 INPUTS
-* [ ] Product Owner*
-* [ ] Project Vision Statement*
-
 * [ ] People Requirements
 * [ ] People Availability and Commitment 
 
@@ -135,10 +133,6 @@ OUTPUTS
 
 ## Develop Epic(s) (8.4)
 
-INPUTS
-* [ ] Scrum Core Team*
-* [ ] Project Vision Statement*
- 
 Recommendations
 
 TOOLS
@@ -155,7 +149,6 @@ OUTPUTS
 ## Create Prioritized Product Backlog (8.5)
 
 INPUTS
-* [ ] Scrum Core Team* 
 * [ ] Epic(s)*
 * [ ] Personas*
 
@@ -176,9 +169,6 @@ OUTPUTS
 ## Conduct Release Planning (8.6)
 
 INPUTS
-* [ ] Scrum Core Team*
-* [ ] Stakeholder(s)*
-* [ ] Project Vision Statement* 
 * [ ] Prioritized Product Backlog* 
 * [ ] Done Criteria*
 
@@ -199,13 +189,10 @@ OUTPUTS
 ## Create User Stories (9.1)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Prioritized Product Backlog*
 * [ ] Done Criteria*
 * [ ] Personas*
-* [ ] Stakeholder(s)
 * [ ] Epic(s)
-* [ ] Business Requirements
 
 Recommendations
 
@@ -227,7 +214,6 @@ OUTPUTS
 ## Approve, Estimate, and Commit User Stories (9.2)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] User Stories*
 * [ ] User Story Acceptance Criteria* 
 
@@ -246,7 +232,6 @@ OUTPUTS
 ## Create Tasks (9.3)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Approved, Estimated, and Committed User Stories*
 
 TOOLS
@@ -263,7 +248,6 @@ OUTPUTS
 ## Estimate Tasks (9.4)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Task List*
 * [ ] User Story Acceptance Criteria
 * Dependencies
@@ -284,7 +268,6 @@ OUTPUTS
 ## Create Sprint Backlog (9.5)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Task List*
 * User Story Acceptance Criteria
 * Dependencies
@@ -318,7 +301,6 @@ OUTPUTS
 ## Create Deliverables (10.1)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Sprint Backlog*
 * [ ] Scrumboard*
 * [ ] Impediment Log*
@@ -339,11 +321,8 @@ OUTPUTS
 ## Conduct Daily Standup (10.2)
 
 INPUTS
-* [ ] Scrum Team*
-* [ ] Scrum Master*
 * [ ] Sprint Burndown Chart*
 * [ ] Impediment Log*
-* Product Owner
 * Previous Work Day Experience 
 * Scrumboard
 * Dependencies
@@ -369,7 +348,6 @@ OUTPUTS
 ## Groom Prioritized Product Backlog (10.3)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Prioritized Product Backlog*
 * Rejected Deliverables
 * Updated Program Product Backlog 
@@ -390,11 +368,8 @@ OUTPUTS
 ## Conduct Daily Standup (10.2)
 
 INPUTS
-* [ ] Scrum Team*
-* [ ] Scrum Master*
 * [ ] Sprint Burndown Chart*
 * [ ] Impediment Log*
-* Product Owner
 * Previous Work Day Experience
 * Scrumboard
 * Dependencies
@@ -421,7 +396,6 @@ What impediments or obstacles (if any) am I currently facing?
 ## Groom Prioritized Product Backlog (10.3)
 
 INPUTS
-* [ ] Scrum Core Team*
 * [ ] Prioritized Product Backlog*
 * Rejected Deliverables
 
@@ -483,7 +457,6 @@ Each Scrum Team representative will provide updates from his or her team in turn
 ## Demonstrate and Validate Sprint (11.2)
 
 INPUTS 
-* [ ] Scrum Core Team* 
 * [ ] Sprint Deliverables* 
 * [ ] Sprint Backlog*
 * [ ] Done Criteria*
@@ -509,10 +482,7 @@ OUTPUTS
 ## Retrospect Sprint (11.3)
 
 INPUTS
-* [ ] Scrum Master*
-* [ ] Scrum Team*
 * [ ] Outputs from Demonstrate and Validate Sprint*
-* Product Owner
 
 Recommendations
 TOOLS
@@ -536,12 +506,9 @@ OUTPUTS
 ## Ship Deliverables (12.1)
 
 INPUTS
-* [ ] Product Owner*
 * [ ] Stakeholder(s)*
 * [ ] Accepted Deliverables*
 * [ ] Release Planning Schedule*
-* Scrum Master
-* Scrum Team
 * User Story Acceptance Criteria
 * Piloting Plan
 
@@ -558,12 +525,9 @@ OUTPUTS
 ## Retrospect Project (12.2) ??????
 
 INPUTS
-* [ ] Product Owner*
 * [ ] Stakeholder(s)*
 * [ ] Accepted Deliverables*
 * [ ] Release Planning Schedule*
-* Scrum Master
-* Scrum Team
 * User Story Acceptance Criteria
 * Piloting Plan
 
