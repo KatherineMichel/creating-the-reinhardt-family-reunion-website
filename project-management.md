@@ -53,6 +53,7 @@ INPUTS
 * Market Study
 
 Recommendations
+
 TOOLS
 * [ ] Project Vision Meeting*
 * JAD Sessions
@@ -80,6 +81,7 @@ INPUTS
 * Previous Project Information
 
 Recommendations
+
 TOOLS
 * [ ] User Group Meetings*
 * User Story Workshops
@@ -104,6 +106,7 @@ Commitment
 * Skills Requirement Matrix
 
 Recommendations
+
 TOOLS
 * [ ] Selection Criteria*
 * Expert Advice from HR
@@ -130,6 +133,7 @@ Commitment
 * Resource Requirements
 
 Recommendations
+
 TOOLS
 * [ ] Scrum Team Selection*
 * Expert Advice from HR
@@ -158,6 +162,7 @@ INPUTS
 * Previous Project Information 
 
 Recommendations
+
 TOOLS
 * [ ] User Group Meetings*
 * User Story Workshops
@@ -187,6 +192,7 @@ INPUTS
 * Applicable Contracts 
 
 Recommendations
+
 TOOLS
 * [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
 * User Story Workshops
@@ -215,6 +221,7 @@ INPUTS
 * Holiday Calendar
 
 Recommendations
+
 TOOLS
 * [ ] Release Planning Sessions*
 * [ ] Release Prioritization Methods*
@@ -239,6 +246,7 @@ INPUTS
 * Applicable Contracts
 
 Recommendations
+
 TOOLS
 * [ ] User Story Writing Expertise*
 * User Story Workshops
@@ -262,6 +270,7 @@ INPUTS
 * [ ] User Story Acceptance Criteria* 
 
 Recommendations
+
 TOOLS (User Story Estimation Methods)
 * [ ] User Group Meetings*
 * Planning Poker
@@ -299,6 +308,7 @@ INPUTS
 * Identified Risks
 
 Recommendations
+
 TOOLS
 * [ ] Task Estimation Meetings*
 * [ ] Estimation Criteria*
@@ -320,6 +330,7 @@ INPUTS
 * Identified Risks
 
 Recommendations
+
 TOOLS
 * [ ] Task Estimation Meetings*
 * [ ] Estimation Criteria*
@@ -412,7 +423,7 @@ INPUTS
 * Updated Program Product Backlog 
 * Retrospect Sprint Log(s)
 * Dependencies
-* ReleasePlanningSchedule
+* Release Planning Schedule
 
 TOOLS
 * [ ] Prioritized Product Backlog Review Meetings*
@@ -539,6 +550,7 @@ INPUTS
 * Dependencies
 
 Recommendations
+
 TOOLS
 * [ ] Sprint Review Meetings*
 * Earned Value Analysis
