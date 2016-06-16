@@ -52,6 +52,10 @@ Figure 10-5: Scrumboard
 * [ ] Risk Identification Techniques
 * [ ] Identified Risks
 * [ ] Mitigated Risks
+* Updated Risks
+
+* [ ] Dependencies
+* Updated Dependencies
 
 ## Create Project Vision (8.1)
 
@@ -85,13 +89,6 @@ INPUTS
 * Previous Project Information
 
 Recommendations
-
-TOOLS
-* [ ] User Group Meetings*
-* [ ] User Story Workshops
-* [ ] Focus Group Meetings
-* [ ] User or Customer Interviews
-* [ ] Questionnaires
 
 INPUTS
 * [ ] People Requirements
@@ -243,14 +240,12 @@ TOOLS
 OUTPUTS
 * [ ] Task List*
 * [ ] Updated Approved, Estimated, and Committed User Stories 
-* [ ] Dependencies
 
 ## Estimate Tasks (9.4)
 
 INPUTS
 * [ ] Task List*
 * [ ] User Story Acceptance Criteria
-* Dependencies
 
 Recommendations
 
@@ -270,7 +265,6 @@ OUTPUTS
 INPUTS
 * [ ] Task List*
 * User Story Acceptance Criteria
-* Dependencies
 
 Recommendations
 
@@ -286,7 +280,6 @@ OUTPUTS
 * Updated Task List
 * [ ] Length of Sprint*
 * Previous Sprint Velocity
-* Dependencies
 * Team Calendar
 
 TOOLS
@@ -305,7 +298,6 @@ INPUTS
 * [ ] Scrumboard*
 * [ ] Impediment Log*
 * Release Planning Schedule
-* Dependencies
 
 TOOLS
 * [ ] Team Expertise*
@@ -316,7 +308,6 @@ OUTPUTS
 * [ ] Sprint Deliverables*
 * [ ] Updated Scrumboard*
 * [ ] Updated Impediment Log*
-* Updated Dependencies
 
 ## Conduct Daily Standup (10.2)
 
@@ -325,7 +316,6 @@ INPUTS
 * [ ] Impediment Log*
 * Previous Work Day Experience 
 * Scrumboard
-* Dependencies
 
 Recommendations
 * [ ] Daily Standup Meeting*
@@ -339,7 +329,6 @@ OUTPUTS
 * Motivated Scrum Team
 * Updated Scrumboard
 OUTPUTS
-* Updated Dependencies
 
 ## Conduct Daily Standup (10.2) TOOLS ???????
 * [ ] Daily Standup Meeting* 
@@ -352,7 +341,6 @@ INPUTS
 * Rejected Deliverables
 * Updated Program Product Backlog 
 * Retrospect Sprint Log(s)
-* Dependencies
 * Release Planning Schedule
 
 TOOLS
@@ -372,7 +360,6 @@ INPUTS
 * [ ] Impediment Log*
 * Previous Work Day Experience
 * Scrumboard
-* Dependencies
 
 TOOLS
 * [ ] Daily Standup Meeting*
@@ -385,7 +372,6 @@ OUTPUTS
 * [ ] Updated Impediment Log*
 * Motivated Scrum Team
 * Updated Scrumboard
-* Updated Dependencies
 
 Three Daily Questions*
 Daily Standup Meeting
@@ -401,7 +387,6 @@ INPUTS
 
 Backlog
 * Retrospect Sprint Log(s)
-* Dependencies
 * Release Planning Schedule
 
 Recommendations
@@ -432,7 +417,6 @@ INPUTS
 
 * Meeting Agenda
 * Impediment Log
-* Dependencies
 * Outputs from Retrospect Sprint
 
 TOOLS
@@ -445,7 +429,6 @@ OUTPUTS
 * [ ] Better Team Coordination*
 * Resolved Issues
 * Updated Impediment Log
-* Updated Dependencies
 
 11.1.2.2 Four Questions per Team*
 Each Scrum Team representative will provide updates from his or her team in turn. These updates are usually provided in the form of answers to four specific questions.
@@ -463,7 +446,6 @@ INPUTS
 * [ ] User Story Acceptance Criteria* 
 * Stakeholder(s)
 * Release Planning Schedule
-* Dependencies
 
 Recommendations
 
@@ -474,10 +456,8 @@ TOOLS
 OUTPUTS
 * [ ] Accepted Deliverables*
 * Rejected Deliverables
-* Updated Risks
 * Earned Value Analysis Results
 * Updated Release Planning Schedule 
-* Updated Dependencies
 
 ## Retrospect Sprint (11.3)
 
