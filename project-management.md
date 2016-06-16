@@ -52,7 +52,6 @@ INPUTS
 9. Company Vision
 10. Company Mission
 11. Market Study
-12. Scrum Guidance Body Recommendations
 Recommendations
 TOOLS
 1. Project Vision Meeting*
@@ -78,7 +77,6 @@ INPUTS
 8. Laws and Regulations
 9. Applicable Contracts
 10. Previous Project Information
-11. Scrum Guidance Body
 Recommendations
 TOOLS
 1. User Group Meetings*
@@ -87,7 +85,6 @@ TOOLS
 4. User or Customer Interviews
 5. Questionnaires
 6. Risk Identification Techniques
-7. Scrum Guidance Body Expertise
 INPUTS
 1. Product Owner*
 2. Project Vision Statement*
@@ -101,7 +98,6 @@ INPUTS
 Commitment
 10. Organizational Resource Matrix
 11. Skills Requirement Matrix
-12. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Selection Criteria*
@@ -125,7 +121,6 @@ Commitment
 7. Organizational Resource Matrix
 8. Skills Requirement Matrix
 9. Resource Requirements
-10. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Scrum Team Selection*
@@ -152,7 +147,6 @@ INPUTS
 8. Laws and Regulations
 9. Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
 10. Previous Project Information 
-11. ScrumGuidanceBody
 Recommendations
 TOOLS
 1. User Group Meetings*
@@ -161,7 +155,6 @@ TOOLS
 4. User or Customer Interviews
 5. Questionnaires
 6. Risk Identification Techniques
-7. Scrum Guidance Body Expertise
 OUTPUTS
 1. Epic(s)* 
 2. Personas*: Creating a Persona
@@ -181,7 +174,6 @@ INPUTS
 8. Approved Change Requests 
 9. Identified Risks
 10. Applicable Contracts 
-11. Scrum Guidance Body
 Recommendations
 TOOLS
 1. User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
@@ -190,7 +182,6 @@ TOOLS
 4. Risk Assessment Techniques
 5. Estimation of Project Value
 6. User Story Estimation Methods
-7. Scrum Guidance Body Expertise
 OUTPUTS
 1. Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
 2. Done Criteria*
@@ -209,7 +200,6 @@ INPUTS
 9. Program Product Backlog 
 10. Business Requirements
 11. Holiday Calendar
-12. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Release Planning Sessions*
@@ -234,7 +224,6 @@ INPUTS
 7. Business Requirements
 8. Laws and Regulations
 9. Applicable Contracts
-10. Scrum Guidance Body
 Recommendations
 TOOLS
 1. User Story Writing Expertise*
@@ -244,7 +233,6 @@ TOOLS
 5. Customer or User Interviews
 6. Questionnaires
 7. User Story Estimation Methods
-8. Scrum Guidance Body Expertise
 OUTPUTS
 1. User Stories*
 2. User Story Acceptance Criteria*
@@ -257,7 +245,6 @@ INPUTS
 1. Scrum Core Team*
 2. User Stories*
 3. User Story Acceptance Criteria* 
-4. Scrum Guidance Body
 Recommendations
 TOOLS (User Story Estimation Methods)
 1. User Group Meetings*
@@ -265,7 +252,6 @@ TOOLS (User Story Estimation Methods)
 3. Fist of Five
 4. Points for Cost Estimation
 5. Other Estimation Techniques: (Wideband Delphi, Relative Sizing/Story Points, Affinity Estimation, Estimate Range)
-6. Scrum Guidance Body Expertise
 OUTPUTS
 1. Approved, Estimated, and Committed User Stories*
 
@@ -292,7 +278,6 @@ INPUTS
 3. User Story Acceptance Criteria
 4. Dependencies
 5. Identified Risks
-6. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Task Estimation Meetings*
@@ -312,7 +297,6 @@ INPUTS
 3. User Story Acceptance Criteria
 4. Dependencies
 5. Identified Risks
-6. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Task Estimation Meetings*
@@ -346,12 +330,10 @@ INPUTS
 4. Impediment Log*
 5. Release Planning Schedule
 6. Dependencies
-7. Scrum Guidance Body Recommendations
 TOOLS
 1. Team Expertise*
 2. Software
 3. Other Development Tools: (Refactoring, Design Patterns)
-4. Scrum Guidance Body Expertise
 OUTPUTS
 1. Sprint Deliverables*
 2. Updated Scrumboard*
@@ -402,7 +384,6 @@ INPUTS
 8. Retrospect Sprint Log(s)
 9. Dependencies
 10. ReleasePlanningSchedule
-11. ScrumGuidanceBody
 TOOLS
 1. Prioritized Product Backlog Review Meetings*
 2. Communication Techniques
@@ -460,7 +441,6 @@ Backlog
 8. Retrospect Sprint Log(s)
 9. Dependencies
 10. Release Planning Schedule
-11. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Prioritized Product Backlog Review Meetings*
@@ -498,7 +478,6 @@ TOOLS
 2. Four Questions per Team*
 3. Video Conferencing
 4. Meeting Room
-5. Scrum Guidance Body Expertise
 OUTPUTS
 1. Better Team Coordination*
 2. Resolved Issues
@@ -524,12 +503,10 @@ INPUTS
 7. Release Planning Schedule
 8. Identified Risks
 9. Dependencies
-10. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Sprint Review Meetings*
 2. Earned Value Analysis
-3. Scrum Guidance Body Expertise
 OUTPUTS
 1. Accepted Deliverables*
 2. Rejected Deliverables
@@ -545,21 +522,18 @@ INPUTS
 2. Scrum Team*
 3. Outputs from Demonstrate and Validate Sprint*
 4. Product Owner
-5. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Retrospect Sprint Meeting*
 2. ESVP (Explorer—Shopper—Vacationer—Prisoner (ESVP))
 3. Speed Boat
 4. Metrics and Measuring (See List)
-5. Scrum Guidance Body Expertise 
 OUTPUTS
 1. Agreed Actionable Improvements*
 2. Assigned Action Items and Due Dates 
 3. Proposed Non-Functional Items for Prioritized Product Backlog
 4. Retrospect Sprint Log(s)
 5. Scrum Team Lessons Learned
-6. Updated Scrum Guidance Body Recommendations
 
 11.3.2.1 Retrospect Sprint Meeting*
 1) Things the team needs to keep doing: best practices
@@ -578,7 +552,6 @@ INPUTS
 6. Scrum Team
 7. User Story Acceptance Criteria
 8. Piloting Plan
-9. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Organizational Deployment Methods*
@@ -599,7 +572,6 @@ INPUTS
 6. Scrum Team
 7. User Story Acceptance Criteria
 8. Piloting Plan
-9. Scrum Guidance Body
 Recommendations
 TOOLS
 1. Organizational Deployment Methods*
@@ -615,11 +587,9 @@ Figure 12-5: Retrospect Project—Inputs, Tools, and Outputs
 2. Chief Scrum Master 
 3. Chief Product Owner 
 4. Stakeholder(s)
-5. Scrum Guidance Body Recommendations
 TOOLS
 1. Retrospect Project Meeting*
 2. Other Tools for Retrospect Project
-3. Scrum Guidance Body Expertise
 OUTPUTS
 1. Agreed Actionable Improvements*
 2. Assigned Action Items and Due Dates*
