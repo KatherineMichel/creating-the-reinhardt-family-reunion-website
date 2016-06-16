@@ -225,7 +225,7 @@ OUTPUTS
 * Target Customers for Release
 * Refined Prioritized Product Backlog
 
-## 9.1 Create User Stories
+## Create User Stories (9.1)
 
 INPUTS
 * [ ] Scrum Core Team*
@@ -498,23 +498,25 @@ Estimate Tasks—Described in section 9.4.2.
 ## Convene Scrum of Scrums (11.1)
 
 INPUTS
-1. Scrum Master or Scrum Team Representatives*
-2. Chief Scrum Master
-3. Chief Product Owner
-4. Meeting Agenda
-5. Impediment Log
-6. Dependencies
-7. Outputs from Retrospect Sprint
+* [ ] Scrum Master or Scrum Team Representatives*
+* Chief Scrum Master
+* Chief Product Owner
+* Meeting Agenda
+* Impediment Log
+* Dependencies
+* Outputs from Retrospect Sprint
+
 TOOLS
-1. Scrum of Scrums Meeting*
-2. Four Questions per Team*
-3. Video Conferencing
-4. Meeting Room
+* [ ] Scrum of Scrums Meeting*
+* [ ] Four Questions per Team*
+* Video Conferencing
+* Meeting Room
+
 OUTPUTS
-1. Better Team Coordination*
-2. Resolved Issues
-3. Updated Impediment Log
-4. Updated Dependencies
+* [ ] Better Team Coordination*
+* Resolved Issues
+* Updated Impediment Log
+* Updated Dependencies
 
 11.1.2.2 Four Questions per Team*
 Each Scrum Team representative will provide updates from his or her team in turn. These updates are usually provided in the form of answers to four specific questions.
@@ -523,104 +525,118 @@ Each Scrum Team representative will provide updates from his or her team in turn
 3) What were other teams counting on our team to finish that remains undone?
 4) What is our team planning on doing that might affect other teams?
 
-Demonstrate and Validate Sprint (11.2)
-INPUTS 
-1. Scrum Core Team* 
-2. Sprint Deliverables* 
-3. Sprint Backlog*
-4. Done Criteria*
-5. User Story Acceptance Criteria* 
-6. Stakeholder(s)
-7. Release Planning Schedule
-8. Identified Risks
-9. Dependencies
-Recommendations
-TOOLS
-1. Sprint Review Meetings*
-2. Earned Value Analysis
-OUTPUTS
-1. Accepted Deliverables*
-2. Rejected Deliverables
-3. Updated Risks
-4. Earned Value Analysis Results
-5. Updated Release Planning Schedule 
-6. Updated Dependencies
+## Demonstrate and Validate Sprint (11.2)
 
-Retrospect Sprint (11.3)
-INPUTS
-1. Scrum Master*
-2. Scrum Team*
-3. Outputs from Demonstrate and Validate Sprint*
-4. Product Owner
+INPUTS 
+* [ ] Scrum Core Team* 
+* [ ] Sprint Deliverables* 
+* [ ] Sprint Backlog*
+* [ ] Done Criteria*
+* [ ] User Story Acceptance Criteria* 
+* Stakeholder(s)
+* Release Planning Schedule
+* Identified Risks
+* Dependencies
+
 Recommendations
 TOOLS
-1. Retrospect Sprint Meeting*
-2. ESVP (Explorer—Shopper—Vacationer—Prisoner (ESVP))
-3. Speed Boat
-4. Metrics and Measuring (See List)
+* [ ] Sprint Review Meetings*
+* Earned Value Analysis
+
 OUTPUTS
-1. Agreed Actionable Improvements*
-2. Assigned Action Items and Due Dates 
-3. Proposed Non-Functional Items for Prioritized Product Backlog
-4. Retrospect Sprint Log(s)
-5. Scrum Team Lessons Learned
+* [ ] Accepted Deliverables*
+* Rejected Deliverables
+* Updated Risks
+* Earned Value Analysis Results
+* Updated Release Planning Schedule 
+* Updated Dependencies
+
+## Retrospect Sprint (11.3)
+
+INPUTS
+* [ ] Scrum Master*
+* [ ] Scrum Team*
+* [ ] Outputs from Demonstrate and Validate Sprint*
+* Product Owner
+
+Recommendations
+TOOLS
+* [ ] Retrospect Sprint Meeting*
+* ESVP (Explorer—Shopper—Vacationer—Prisoner (ESVP))
+* Speed Boat
+* Metrics and Measuring (See List)
+
+OUTPUTS
+* [ ] Agreed Actionable Improvements*
+* Assigned Action Items and Due Dates 
+* Proposed Non-Functional Items for Prioritized Product Backlog
+* Retrospect Sprint Log(s)
+* Scrum Team Lessons Learned
 
 11.3.2.1 Retrospect Sprint Meeting*
 1) Things the team needs to keep doing: best practices
 2) Things the team needs to begin doing: process improvements
 3) Things the team needs to stop doing: process problems and bottlenecks
 
-Ship Deliverables (12.1)
+## Ship Deliverables (12.1)
+
 INPUTS
-1. Product Owner*
-2. Stakeholder(s)*
-3. Accepted Deliverables*
-4. Release Planning Schedule*
-5. Scrum Master
-6. Scrum Team
-7. User Story Acceptance Criteria
-8. Piloting Plan
+* [ ] Product Owner*
+* [ ] Stakeholder(s)*
+* [ ] Accepted Deliverables*
+* [ ] Release Planning Schedule*
+* Scrum Master
+* Scrum Team
+* User Story Acceptance Criteria
+* Piloting Plan
+
 Recommendations
 TOOLS
-1. Organizational Deployment Methods*
-2. Communication Plan
-OUTPUTS
-1. Working Deliverables Agreement*
-2. Working Deliverables
-3. Product Releases (Release Content, Release Notes)
+* [ ] Organizational Deployment Methods*
+* Communication Plan
 
-Retrospect Project (12.2) ??????
+OUTPUTS
+* [ ] Working Deliverables Agreement*
+* Working Deliverables
+* Product Releases (Release Content, Release Notes)
+
+## Retrospect Project (12.2) ??????
+
 INPUTS
-1. Product Owner*
-2. Stakeholder(s)*
-3. Accepted Deliverables*
-4. Release Planning Schedule*
-5. Scrum Master
-6. Scrum Team
-7. User Story Acceptance Criteria
-8. Piloting Plan
+* [ ] Product Owner*
+* [ ] Stakeholder(s)*
+* [ ] Accepted Deliverables*
+* [ ] Release Planning Schedule*
+* Scrum Master
+* Scrum Team
+* User Story Acceptance Criteria
+* Piloting Plan
+
 Recommendations
 TOOLS
-1. Organizational Deployment Methods*
-2. Communication Plan
-OUTPUTS
-1. Working Deliverables Agreement*
-2. Working Deliverables
-3. Product Releases
+* [ ] Organizational Deployment Methods*
+* Communication Plan
 
-Retrospect Project (12.2) ???????
-1. Scrum Core Team(s)* 
-2. Chief Scrum Master 
-3. Chief Product Owner 
-4. Stakeholder(s)
-TOOLS
-1. Retrospect Project Meeting*
-2. Other Tools for Retrospect Project
 OUTPUTS
-1. Agreed Actionable Improvements*
-2. Assigned Action Items and Due Dates*
-3. Proposed Non-Functional Items for Program Product Backlog and Prioritized Product Backlog
-4. Updated Scrum Guidance Body Recommendations
+* [ ] Working Deliverables Agreement*
+* Working Deliverables
+* Product Releases
+
+## Retrospect Project (12.2) ???????
+* [ ] Scrum Core Team(s)* 
+* Chief Scrum Master 
+* Chief Product Owner 
+* Stakeholder(s)
+
+TOOLS
+* [ ] Retrospect Project Meeting*
+* Other Tools for Retrospect Project
+
+OUTPUTS
+* [ ] Agreed Actionable Improvements*
+* [ ] Assigned Action Items and Due Dates*
+* Proposed Non-Functional Items for Program Product Backlog and Prioritized Product Backlog
+* Updated Scrum Guidance Body Recommendations
 
 12.2.2.2 Other Tools for Retrospect Project
 Explorer—Shopper—Vacationer—Prisoner (ESVP) exercise
