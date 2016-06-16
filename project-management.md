@@ -43,6 +43,9 @@ Optional
 * Chief Product Owner
 * Chief Scrum Master
 
+* Approved Change Requests
+* Unapproved Change Requests
+
 ## Create Project Vision (8.1)
 
 INPUTS
@@ -78,8 +81,6 @@ INPUTS
 * [ ] Project Vision Statement*
 * Stakeholder(s)
 * Program Product Backlog
-* Approved Change Requests
-* Unapproved Change Requests
 * Program and Portfolio Risks
 * Laws and Regulations
 * Applicable Contracts
@@ -156,8 +157,6 @@ INPUTS
 * [ ] Project Vision Statement*
 * Stakeholder(s)
 * Program Product Backlog
-* Approved Change Requests
-* Unapproved Change Requests
 * Program and Portfolio Risks
 * Laws and Regulations
 * Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
@@ -671,50 +670,3 @@ Daily Standup Meeting 3 Questions:
 1. What did I complete yesterday?
 2. What will I complete today?
 3. What impediments or obstacles (if any) am I currently facing?
-
-3. Organization
-Roles Guide (Core: Product Owner Scrum Master, Scrum Team)
-Scrum Project Roles (Core Roles and Non-Core Roles) (Non-Core: Stakeholders: Customer, Users, Sponsor) (Non-Core: Vendors) (Non-Core: Scrum Guidance Body)
-Product Owner: Table 3-1: Responsibilities of the Product Owner in Scrum Processes (Also: Voice of the Customer (VOC), Chief Product Owner)
-Scrum Master: Table 3-2: Responsibilities of the Scrum Master in Scrum Processes (Also: Chief Scrum Master, Scrum of Scrums (SoS)) 
-Scrum Team: Table 3-3: Responsibilities of the Scrum Team in Scrum Processes; Personnel Selection: Figure 3-3: Desirable Traits for the Core Scrum Roles; Scrum Team Size
-Scrum in Projects, Programs, and Portfolios (Definition of Project, Program, and Portfolio) (Scrum of Scrums (SoS) Meeting) (Portfolios: Portfolio Product Owner, Portfolio Scrum Master) (Programs: Program Product Owner, Program Scrum Master); Figure 3-5: Scrum Across the Organization for Projects, Programs, and Portfolios; (Working with Portfolio and Program Teams, Managing Communication, Maintaining Stakeholder Involvement)
-Responsibilities: Table 3-4: Summary of Responsibilities Relevant to Organization
-Scrum vs. Traditional Project Management
-Popular HR Theories and their Relevance to Scrum (Tuckman’s Model of Group Dynamics, Conflict Management Techniques, Leadership Styles, Maslow’s Hierarchy of Needs Theory, Theory X and Theory Y)
-
-4. Business Justification
-Roles Guide
-Value-driven Delivery: Figure 4-1: Delivering Value in Scrum vs. Traditional Projects; Responsibilities of the Product Owner in Business Justification: Figure 4-2: Hierarchy for Business Justification Responsibilities; Responsibilities of Other Scrum Roles in Business Justification
-Importance of Business Justification: (Factors Used to Determine Business Justification: Project Reasoning, Business Needs, Project Benefits, Opportunity Cost, Major Risks, Project Timescales, Project Costs); (Business Justification and the Project Lifecycle: Assess and Present a Business Case, Continuous Value Justification, Confirm Benefits Realization); Figure 4-3: Business Justification and the Project Lifecycle
-Business Justification Techniques: (Estimation of Project Value: Return on Investment (ROI), Net Present Value (NPV), Internal Rate of Return (IRR)) (Planning for Value: Value Stream Mapping, Customer Value-based Prioritization (Simple Schemes, MoSCoW Prioritization, Monopoly Money, 100-Point Method, Kano Analysis), Relative Prioritization Ranking, Story Mapping)
-Continuous Value Justification: (Earned Value Analysis: Table 4-1: Earned Value Formulas, Cumulative Flow Diagram (CFD))
-Confirm Benefits Realization: (Prototypes, Simulations, and Demonstrations) 
-Summary of Responsibilities: Table 4-2: Summary of Responsibilities Relevant to Business Justification
-Scrum vs. Traditional Project Management: MMF
-
-5. Quality
-Roles Guide
-Quality Defined: (Quality and Scope, Quality and Business Value) 
-Acceptance Criteria and the Prioritized Product Backlog: (Acceptance Criteria and the Prioritized Product Backlog, Writing Acceptance Criteria, Minimum Acceptance Criteria, Definition of Done, Acceptance or Rejection of Prioritized Product Backlog Items)
-Quality Management in Scrum: (Quality Planning, Continuous Integration and Sustainable Pace, Quality Control and Quality Assurance, Plan-Do-Check-Act (PDCA) Cycle (Figure 5-3: PDCA Cycle in Scrum) 
-Summary of Responsibilities: Table 5-1: Summary of Responsibilities Relevant to Quality
-Scrum vs. Traditional Project Management
-
-6. Change
-Roles Guide
-Overview: Unapproved and Approved Change Requests, Figure 6-1: Sample Change Approval Process
-Change in Scrum: Balancing Flexibility and Stability; Achieving Flexibility; (Flexibility through Iterative Product Development: Stakeholders, Figure 6-4: Motivation of Stakeholders for Requesting Changes; Scrum Core Team, Figure 6-5: Motivation of Scrum Core Team for Requesting Changes; Senior Management, Scrum Guidance Body); Flexibility through Time-boxing; Flexibility through Cross-functional and Self-organized Teams; Flexibility through Customer Value-based Prioritization; Flexibility through Continuous Integration
-Integrating Change: Changes to a Sprint, Impact of Expected Change on the Length of Sprint, Managing Changes through Prioritized Product Backlog Grooming, Effective Product Backlog Review Meeting (or Prioritized Product Backlog Grooming Session), Managing Changes During Demonstrate and Validate Sprint
-Change to Programs and Portfolios: In Portfolio, In Program, 
-Summary of Responsibilities: Table 6-1: Summary of Responsibilities Relevant to Change
-Scrum vs. Traditional Project Management
-
-7. Risk
-Roles Guide
-What is Risk?: Difference between Risks and Issues, Risk Attitude, Utility Function
-Risk Management Procedure: Risk Identification, (Risk Identification Techniques: Review Lessons Learned from Retrospect Sprint or Retrospect Project Processes, Risk Checklists, Risk Prompt Lists, Brainstorming, Risk Breakdown Structure (RBS)), Risk-Based Spike, Risk Assessment, Risk Assessment Techniques (Risk Meeting, Probability Trees, Pareto Analysis, Probability Impact Grid, Expected Monetary Value (EMV)) Risk Prioritization: Figure 7-4: Process for Risk Prioritization, Risk Mitigation, Risk Communication: Risk Burndown Chart
-Minimizing Risks through Scrum: Flexibility reduces business-environment-related risk, Regular feedback reduces expectations-related risk, Team ownership reduces estimation risk, Transparency reduces non-detection risk, Iterative delivery reduces investment risk
-Risks in Portfolios and Programs: In Portfolio, In Program, 
-Summary of Responsibilities: Table 7-1: Summary of Responsibilities Relevant to Risk
-Scrum vs. Traditional Project Management
