@@ -35,36 +35,7 @@ Release Phase:
 
 Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corresponding process.
 
-Figure 8-1: Initiate Overview
-Figure 8-2: Initiate Overview (Essentials)
-Figure 8-3: Create Project Vision—Inputs, Tools, and Outputs
-Figure 8-6: Identify Scrum Master and Stakeholder(s)—Inputs, Tools, and Outputs
-Figure 8-8: Form Scrum Team—Inputs, Tools, and Outputs
-Figure 8-10: Develop Epic(s)—Inputs, Tools, and Outputs
-Figure 8-12: Create Prioritized Product Backlog—Inputs, Tools, and Outputs
-Figure 8-14: Conduct Release Planning—Inputs, Tools, and Outputs
-Figure 9-1: Plan and Estimate Overview
-Figure 9-2: Plan and Estimate Overview (Essentials)
-Figure 9-3: Create User Stories—Inputs, Tools, and Outputs
-Figure 9-5: Approve, Estimate, and Commit User Stories—Inputs, Tools, and Outputs
-Figure 9-7: Create Tasks—Inputs, Tools, and Outputs
-Figure 9-10: Estimate Tasks—Inputs, Tools, and Outputs
-Figure 9-12: Create Sprint Backlog—Inputs, Tools, and Outputs
-Figure 10-1: Implement Overview
-Figure 10-2: Implement Overview (Essentials)
-Figure 10-3: Create Deliverables—Inputs, Tools, and Outputs
 Figure 10-5: Scrumboard
-Figure 10-6: Conduct Daily Standup—Inputs, Tools, and Outputs
-Figure 10-8: Groom Prioritized Product Backlog—Inputs, Tools, and Outputs
-Figure 11-1: Review and Retrospect Overview
-Figure 11-2: Review and Retrospect Overview (Essentials)
-Figure 11-3: Convene Scrum of Scrums—Inputs, Tools, and Outputs
-Figure 11-5: Demonstrate and Validate Sprint—Inputs, Tools, and Outputs
-Figure 11-7: Retrospect Sprint—Inputs, Tools, and Outputs
-Figure 12-2: Release Overview (Essentials)
-Figure 12-3: Ship Deliverables—Inputs, Tools, and Outputs
-Figure 12-1: Release Overview
-Figure 12-5: Retrospect Project—Inputs, Tools, and Outputs
 
 Create Project Vision (8.1)
 INPUTS
