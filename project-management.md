@@ -35,13 +35,19 @@ Release Phase:
 
 Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corresponding process.
 
+Figure 8-5: The Gap Analysis Process
 Figure 10-5: Scrumboard
+
+* [ ] Project Vision Statement*
+* [ ] Stakeholder(s)
+* [ ] Business Requirements
 
 * Approved Change Requests
 * Unapproved Change Requests
 
-* Identified Risks
-* Mitigated Risks
+* [ ] Risk Identification Techniques
+* [ ] Identified Risks
+* [ ] Mitigated Risks
 
 ## Create Project Vision (8.1)
 
@@ -59,20 +65,19 @@ TOOLS
 * [ ] Project Vision Meeting*
 * JAD Sessions
 * SWOT Analysis
-* Gap Analysis: Figure 8-5: The Gap Analysis Process
+* Gap Analysis
 
 OUTPUTS
 * [ ] Identified Product Owner*
 * [ ] Project Vision Statement*
 * [ ] Project Charter
-* Project Budget
+* [ ] Project Budget
 
 ## Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
-* [ ] Stakeholder(s)
 
 * Laws and Regulations
 * Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
@@ -86,7 +91,6 @@ TOOLS
 * [ ] Focus Group Meetings
 * [ ] User or Customer Interviews
 * [ ] Questionnaires
-* [ ] Risk Identification Techniques
 
 INPUTS
 * [ ] Product Owner*
@@ -114,7 +118,6 @@ OUTPUTS
 INPUTS
 * [ ] Product Owner*
 * [ ] Scrum Master*
-* [ ] Project Vision Statement*
 
 * Resource Requirements
 
@@ -135,7 +138,6 @@ OUTPUTS
 INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
-* [ ] Stakeholder(s)
  
 Recommendations
 
@@ -145,12 +147,10 @@ TOOLS
 * [ ] Focus Group Meetings
 * [ ] User or Customer Interviews
 * [ ] Questionnaires
-* [ ] Risk Identification Techniques
 
 OUTPUTS
 * [ ] Epic(s)* 
 * [ ] Personas*: Creating a Persona
-* [ ] Identified Risks
 
 ## Create Prioritized Product Backlog (8.5)
 
@@ -158,9 +158,6 @@ INPUTS
 * [ ] Scrum Core Team* 
 * [ ] Epic(s)*
 * [ ] Personas*
-* [ ] Stakeholder(s)
-* [ ] Project Vision Statement
-* [ ] Business Requirements
 
 Recommendations
 
