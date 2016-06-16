@@ -37,14 +37,19 @@ Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corr
 
 Figure 10-5: Scrumboard
 
+Optional
+* Program Product Owner
+* Program Scrum Master
+* Chief Product Owner
+* Chief Scrum Master
+
 ## Create Project Vision (8.1)
 
 INPUTS
 * [ ] Project Business Case*
-* Program Product Owner
-* Program Scrum Master
+
 * Program Stakeholder(s)
-* Chief Product Owner
+
 * Program Product Backlog
 * Trial Project
 * Proof of Concept
@@ -93,10 +98,7 @@ TOOLS
 INPUTS
 * [ ] Product Owner*
 * [ ] Project Vision Statement*
-* Program Product Owner
-* Program Scrum Master
-* Chief Product Owner
-* Chief Scrum Master
+
 * Program Stakeholder(s)
 * People Requirements
 * People Availability and Commitment 
@@ -123,7 +125,7 @@ INPUTS
 * [ ] Product Owner*
 * [ ] Scrum Master*
 * [ ] Project Vision Statement*
-* Chief Product Owner
+
 * People Requirements
 * People Availability and
 
@@ -213,9 +215,7 @@ INPUTS
 * [ ] Project Vision Statement* 
 * [ ] Prioritized Product Backlog* 
 * [ ] Done Criteria*
-* Program Product Owner
-* Program Scrum Master
-* Chief Product Owner
+
 * Program Product Backlog 
 * Business Requirements
 * Holiday Calendar
@@ -510,8 +510,7 @@ Estimate Tasks—Described in section 9.4.2.
 
 INPUTS
 * [ ] Scrum Master or Scrum Team Representatives*
-* Chief Scrum Master
-* Chief Product Owner
+
 * Meeting Agenda
 * Impediment Log
 * Dependencies
@@ -635,9 +634,8 @@ OUTPUTS
 * Product Releases
 
 ## Retrospect Project (12.2) ???????
+
 * [ ] Scrum Core Team(s)* 
-* Chief Scrum Master 
-* Chief Product Owner 
 * Stakeholder(s)
 
 TOOLS
