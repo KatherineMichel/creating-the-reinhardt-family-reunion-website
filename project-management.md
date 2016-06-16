@@ -116,11 +116,11 @@ INPUTS
 * [ ] Scrum Master*
 * [ ] Project Vision Statement*
 
-* [ ] People Requirements
-* [ ] People Availability and Commitment 
+* People Requirements
+* People Availability and Commitment 
 
 * Organizational Resource Matrix
-* [ ] Skills Requirement Matrix
+* Skills Requirement Matrix
 * Resource Requirements
 
 Recommendations
@@ -144,8 +144,6 @@ INPUTS
 * [ ] Scrum Core Team*
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
-* Program Product Backlog
-* Program and Portfolio Risks
 * Laws and Regulations
 * Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
 * Previous Project Information 
@@ -203,7 +201,6 @@ INPUTS
 * [ ] Prioritized Product Backlog* 
 * [ ] Done Criteria*
 
-* Program Product Backlog 
 * Business Requirements
 * Holiday Calendar
 
