@@ -62,7 +62,9 @@ Figure 10-5: Scrumboard
 
 Recommendations
 
-## Create Project Vision (8.1)
+## Initiate Phase 
+
+### Create Project Vision (8.1)
 
 INPUTS
 * [ ] Project Business Case*
@@ -84,7 +86,7 @@ OUTPUTS
 * [ ] Project Charter
 * [ ] Project Budget
 
-## Identify Scrum Master and Stakeholder(s) (8.2)
+### Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
 * Laws and Regulations
@@ -107,7 +109,7 @@ OUTPUTS
 * [ ] Identified Scrum Master* 
 * [ ] Identified Stakeholder(s)*
 
-## Form Scrum Team (8.3)
+### Form Scrum Team (8.3)
 
 INPUTS
 * [ ] Product Owner*
@@ -125,7 +127,7 @@ OUTPUTS
 * Collaboration Plan
 * Team Building Plan
 
-## Develop Epic(s) (8.4)
+### Develop Epic(s) (8.4)
 
 TOOLS
 * [ ] User Group Meetings*
@@ -138,7 +140,7 @@ OUTPUTS
 * [ ] Epic(s)* 
 * [ ] Personas*: Creating a Persona
 
-## Create Prioritized Product Backlog (8.5)
+### Create Prioritized Product Backlog (8.5)
 
 INPUTS
 * [ ] Epic(s)*
@@ -156,7 +158,7 @@ OUTPUTS
 * [ ] Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
 * [ ] Done Criteria*
 
-## Conduct Release Planning (8.6)
+### Conduct Release Planning (8.6)
 
 INPUTS
 * [ ] Prioritized Product Backlog* 
@@ -174,7 +176,7 @@ OUTPUTS
 * [ ] Target Customers for Release
 * Refined Prioritized Product Backlog
 
-## Create User Stories (9.1)
+### Create User Stories (9.1)
 
 INPUTS
 * [ ] Prioritized Product Backlog*
@@ -197,7 +199,7 @@ OUTPUTS
 * Updated Prioritized Product Backlog
 * [ ] Updated or Refined Personas
 
-## Approve, Estimate, and Commit User Stories (9.2)
+### Approve, Estimate, and Commit User Stories (9.2)
 
 INPUTS
 * [ ] User Stories*
@@ -213,7 +215,7 @@ TOOLS (User Story Estimation Methods)
 OUTPUTS
 * [ ] Approved, Estimated, and Committed User Stories*
 
-## Create Tasks (9.3)
+### Create Tasks (9.3)
 
 INPUTS
 * [ ] Approved, Estimated, and Committed User Stories*
@@ -228,7 +230,7 @@ OUTPUTS
 * [ ] Task List*
 * [ ] Updated Approved, Estimated, and Committed User Stories 
 
-## Estimate Tasks (9.4)
+### Estimate Tasks (9.4)
 
 INPUTS
 * [ ] Task List*
@@ -245,7 +247,7 @@ OUTPUTS
 * [ ] Effort Estimated Task List*
 * [ ] Updated Task List
 
-## Create Sprint Backlog (9.5)
+### Create Sprint Backlog (9.5)
 
 INPUTS
 * [ ] Task List*
@@ -274,7 +276,7 @@ OUTPUTS
 * [ ] Sprint Backlog*
 * [ ] Sprint Burndown Chart*
 
-## Create Deliverables (10.1)
+### Create Deliverables (10.1)
 
 INPUTS
 * [ ] Sprint Backlog*
@@ -290,7 +292,7 @@ OUTPUTS
 * [ ] Sprint Deliverables*
 * [ ] Updated Scrumboard*
 
-## Conduct Daily Standup (10.2)
+### Conduct Daily Standup (10.2)
 
 INPUTS
 * [ ] Sprint Burndown Chart*
@@ -309,11 +311,11 @@ OUTPUTS
 * Updated Scrumboard
 OUTPUTS
 
-## Conduct Daily Standup (10.2) TOOLS ???????
+### Conduct Daily Standup (10.2) TOOLS ???????
 * [ ] Daily Standup Meeting* 
 * [ ] Three Daily Questions*
 
-## Groom Prioritized Product Backlog (10.3)
+### Groom Prioritized Product Backlog (10.3)
 
 INPUTS
 * [ ] Prioritized Product Backlog*
@@ -332,7 +334,7 @@ OUTPUTS
 * [ ] Updated Prioritized Product Backlog* 
 * Updated Release Planning Schedule
 
-## Conduct Daily Standup (10.2)
+### Conduct Daily Standup (10.2)
 
 INPUTS
 * [ ] Sprint Burndown Chart*
@@ -356,7 +358,7 @@ What did I complete yesterday?
 What will I complete today?
 What impediments or obstacles (if any) am I currently facing?
 
-## Groom Prioritized Product Backlog (10.3)
+### Groom Prioritized Product Backlog (10.3)
 
 INPUTS
 * [ ] Prioritized Product Backlog*
@@ -386,7 +388,7 @@ Approve, Estimate, and Commit User Stories—Described in section 9.2.2.
 Create Tasks—Described in section 9.3.2.
 Estimate Tasks—Described in section 9.4.2.
 
-## Convene Scrum of Scrums (11.1)
+### Convene Scrum of Scrums (11.1)
 
 INPUTS
 * [ ] Scrum Master or Scrum Team Representatives*
@@ -411,7 +413,7 @@ Each Scrum Team representative will provide updates from his or her team in turn
 3) What were other teams counting on our team to finish that remains undone?
 4) What is our team planning on doing that might affect other teams?
 
-## Demonstrate and Validate Sprint (11.2)
+### Demonstrate and Validate Sprint (11.2)
 
 INPUTS 
 * [ ] Sprint Deliverables* 
@@ -431,7 +433,7 @@ OUTPUTS
 * Earned Value Analysis Results
 * Updated Release Planning Schedule 
 
-## Retrospect Sprint (11.3)
+### Retrospect Sprint (11.3)
 
 INPUTS
 * [ ] Outputs from Demonstrate and Validate Sprint*
@@ -454,7 +456,7 @@ OUTPUTS
 2) Things the team needs to begin doing: process improvements
 3) Things the team needs to stop doing: process problems and bottlenecks
 
-## Ship Deliverables (12.1)
+### Ship Deliverables (12.1)
 
 INPUTS
 * [ ] Stakeholder(s)*
@@ -472,7 +474,7 @@ OUTPUTS
 * Working Deliverables
 * Product Releases (Release Content, Release Notes)
 
-## Retrospect Project (12.2) ??????
+### Retrospect Project (12.2) ??????
 
 INPUTS
 * [ ] Stakeholder(s)*
@@ -490,7 +492,7 @@ OUTPUTS
 * Working Deliverables
 * Product Releases
 
-## Retrospect Project (12.2) ???????
+### Retrospect Project (12.2) ???????
 
 * [ ] Scrum Core Team(s)* 
 * Stakeholder(s)
