@@ -4,35 +4,6 @@
 
 Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
 
-Initiate Phase: 
-* Create Project Vision (8.1)
-* Identify Scrum Master and Stakeholder(s) (8.2)
-* Form Scrum Team (8.3)
-* Develop Epic(s) (8.4)
-* Create Prioritized Product Backlog (8.5)
-* Conduct Release Planning (8.6)
-
-Plan and Estimate Phase:
-* Create User Stories (9.1)
-* Approve, Estimate, and Commit User Stories (9.2)
-* Create Tasks (9.3)
-* Estimate Tasks (9.4)
-* Create Sprint Backlog (9.5)
-
-Implement Phase:
-* Create Deliverables (10.1)
-* Conduct Daily Standup (10.2)
-* Groom Prioritized Product Backlog (10.3)
-
-Review and Retrospect Phase:
-* Convene Scrum of Scrums (11.1)
-* Demonstrate and Validate Sprint (12.1)
-* Retrospect Sprint (11.3)
-
-Release Phase:
-* Ship Deliverables (12.1)
-* Retrospect Project (12.2)
-
 Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corresponding process.
 
 Figure 8-5: The Gap Analysis Process
@@ -176,6 +147,8 @@ OUTPUTS
 * [ ] Target Customers for Release
 * Refined Prioritized Product Backlog
 
+## Plan and Estimate Phase
+
 ### Create User Stories (9.1)
 
 INPUTS
@@ -275,6 +248,8 @@ TOOLS
 OUTPUTS
 * [ ] Sprint Backlog*
 * [ ] Sprint Burndown Chart*
+
+## Implement Phase
 
 ### Create Deliverables (10.1)
 
@@ -388,6 +363,8 @@ Approve, Estimate, and Commit User Stories—Described in section 9.2.2.
 Create Tasks—Described in section 9.3.2.
 Estimate Tasks—Described in section 9.4.2.
 
+## Review and Retrospect Phase
+
 ### Convene Scrum of Scrums (11.1)
 
 INPUTS
@@ -455,6 +432,8 @@ OUTPUTS
 1) Things the team needs to keep doing: best practices
 2) Things the team needs to begin doing: process improvements
 3) Things the team needs to stop doing: process problems and bottlenecks
+
+## Release Phase
 
 ### Ship Deliverables (12.1)
 
