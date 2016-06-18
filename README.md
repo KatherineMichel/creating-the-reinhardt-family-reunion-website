@@ -7,7 +7,7 @@ Table of Contents
 * [Introduction](introduction.md)
 * [Project Management](project-management.md)
 * [Research Sprint](research-sprint/research-sprint.md)
-   * [Personas](research-sprint/personas.md)
+   * [User Stories](research-sprint/user-stories.md)
 * [Design Sprint](design-sprint/design-sprint.md)
    * [Flow Diagram](design-sprint/flow-diagram-rough-draft.md)
    * [Wireframes](design-sprint/wireframes.md)
