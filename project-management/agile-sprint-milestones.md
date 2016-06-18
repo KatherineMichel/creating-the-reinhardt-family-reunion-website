@@ -7,7 +7,7 @@ Based on the [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy
 Stakeholders
 * [X] Product Owner
 * [ ] Project Vision Statement
-* [ ] Stakeholder(s)
+* [X] Stakeholder(s)
 * [ ] Business Requirements
 
 Change Requests
@@ -39,7 +39,7 @@ TOOLS
 * [ ] Project Vision Meeting
 
 OUTPUTS
-* [ ] Identified Product Owner
+* [X] Identified Product Owner
 * [ ] Project Vision Statement
 * [ ] Project Charter
 * [ ] Project Budget
@@ -61,22 +61,22 @@ TOOLS
 * [ ] Training
 
 OUTPUTS
-* [ ] Identified Scrum Master
-* [ ] Identified Stakeholder(s)
+* [X] Identified Scrum Master
+* [X] Identified Stakeholder(s)
 
 ### Form Scrum Team (8.3)
 
 INPUTS
-* [ ] Product Owner
-* [ ] Scrum Master
+* [X] Product Owner
+* [X] Scrum Master
 
 * Resource Requirements
 
 TOOLS
-* [ ] Scrum Team Selection
+* [X] Scrum Team Selection
 
 OUTPUTS
-* [ ] Identified Scrum Team
+* [X] Identified Scrum Team
 * [ ] Collaboration Plan
 
 ### Develop Epic(s) (8.4)
