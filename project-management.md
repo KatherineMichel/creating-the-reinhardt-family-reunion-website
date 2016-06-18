@@ -9,9 +9,6 @@ Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corr
 Figure 8-5: The Gap Analysis Process
 Figure 10-5: Scrumboard
 
-* [ ] Scrum Core Team* 
-* [ ] Scrum Team*
-* [ ] Scrum Master*
 * Product Owner
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
@@ -39,17 +36,9 @@ Recommendations
 
 INPUTS
 * [ ] Project Business Case*
-* Trial Project
-* Proof of Concept
-* Company Vision
-* Company Mission
-* Market Study
 
 TOOLS
 * [ ] Project Vision Meeting*
-* JAD Sessions
-* SWOT Analysis
-* Gap Analysis
 
 OUTPUTS
 * [ ] Identified Product Owner*
@@ -60,9 +49,7 @@ OUTPUTS
 ### Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
-* Laws and Regulations
-* Applicable Contracts: Incremental Delivery Contract, Joint Venture Contract, Development in Phases Contract, Incentive and Penalty Contract
-* Previous Project Information
+* Applicable Contracts
 
 INPUTS
 * [ ] People Requirements
@@ -73,8 +60,7 @@ Commitment
 
 TOOLS
 * [ ] Selection Criteria*
-* [ ] Training and Training Costs 
-* Resource Costs
+* [ ] Training
 
 OUTPUTS
 * [ ] Identified Scrum Master* 
@@ -90,13 +76,11 @@ INPUTS
 
 TOOLS
 * [ ] Scrum Team Selection*
-* People Costs
 
 OUTPUTS
 * [ ] Identified Scrum Team* 
 * Back-up Persons
 * Collaboration Plan
-* Team Building Plan
 
 ### Develop Epic(s) (8.4)
 
