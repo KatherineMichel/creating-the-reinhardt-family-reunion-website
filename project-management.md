@@ -4,24 +4,26 @@
 
 Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
 
-* Product Owner
-* [ ] Project Vision Statement*
+Stakeholders
+* [ ] Product Owner
+* [ ] Project Vision Statement
 * [ ] Stakeholder(s)
 * [ ] Business Requirements
 
-* Approved Change Requests
-* Unapproved Change Requests
+Change Requests
+* [ ] Approved Change Requests
+* [ ] Unapproved Change Requests
 
+Risks
 * [ ] Risk Identification Techniques
 * [ ] Identified Risks
 * [ ] Mitigated Risks
-* Updated Risks
 
+Dependencies
 * [ ] Dependencies
-* Updated Dependencies
 
-* [ ] Impediment Log*
-* [ ] Updated Impediment Log*
+Impediments
+* [ ] Impediment Log
 
 Recommendations
 
@@ -30,21 +32,21 @@ Recommendations
 ### Create Project Vision (8.1)
 
 INPUTS
-* [ ] Project Business Case*
+* [ ] Project Business Case
 
 TOOLS
-* [ ] Project Vision Meeting*
+* [ ] Project Vision Meeting
 
 OUTPUTS
-* [ ] Identified Product Owner*
-* [ ] Project Vision Statement*
+* [ ] Identified Product Owner
+* [ ] Project Vision Statement
 * [ ] Project Charter
 * [ ] Project Budget
 
 ### Identify Scrum Master and Stakeholder(s) (8.2)
 
 INPUTS
-* Applicable Contracts
+* [ ] Applicable Contracts
 
 INPUTS
 * [ ] People Requirements
@@ -54,46 +56,46 @@ Commitment
 * [ ] Skills Requirement Matrix
 
 TOOLS
-* [ ] Selection Criteria*
+* [ ] Selection Criteria
 * [ ] Training
 
 OUTPUTS
-* [ ] Identified Scrum Master* 
-* [ ] Identified Stakeholder(s)*
+* [ ] Identified Scrum Master
+* [ ] Identified Stakeholder(s)
 
 ### Form Scrum Team (8.3)
 
 INPUTS
-* [ ] Product Owner*
-* [ ] Scrum Master*
+* [ ] Product Owner
+* [ ] Scrum Master
 
 * Resource Requirements
 
 TOOLS
-* [ ] Scrum Team Selection*
+* [ ] Scrum Team Selection
 
 OUTPUTS
-* [ ] Identified Scrum Team* 
-* Collaboration Plan
+* [ ] Identified Scrum Team
+* [ ] Collaboration Plan
 
 ### Develop Epic(s) (8.4)
 
 TOOLS
-* [ ] User Group Meetings*
+* [ ] User Group Meetings
 * [ ] User Story Workshops
 * [ ] Focus Group Meetings
 * [ ] User or Customer Interviews
 * [ ] Questionnaires
 
 OUTPUTS
-* [ ] Epic(s)* 
-* [ ] Personas*
+* [ ] Epic(s) 
+* [ ] Personas
 
 ### Create Prioritized Product Backlog (8.5)
 
 INPUTS
-* [ ] Epic(s)*
-* [ ] Personas*
+* [ ] Epic(s)
+* [ ] Personas
 
 TOOLS
 * [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
@@ -104,37 +106,37 @@ TOOLS
 * [ ] User Story Estimation Methods
 
 OUTPUTS
-* [ ] Prioritized Product Backlog*: Value, Risk and Uncertainty, Dependencies, Estimates
-* [ ] Done Criteria*
+* [ ] Prioritized Product Backlog
+* [ ] Done Criteria
 
 ### Conduct Release Planning (8.6)
 
 INPUTS
-* [ ] Prioritized Product Backlog* 
-* [ ] Done Criteria*
+* [ ] Prioritized Product Backlog
+* [ ] Done Criteria
 
 TOOLS
-* [ ] Release Planning Sessions*
-* [ ] Release Prioritization Methods*
+* [ ] Release Planning Sessions
+* [ ] Release Prioritization Methods
 
 OUTPUTS
-* [ ] Release Planning Schedule*
-* [ ] Length of Sprint*
+* [ ] Release Planning Schedule
+* [ ] Length of Sprint
 * [ ] Target Customers for Release
-* Refined Prioritized Product Backlog
+* [ ] Refined Prioritized Product Backlog
 
 ## Plan and Estimate Phase
 
 ### Create User Stories (9.1)
 
 INPUTS
-* [ ] Prioritized Product Backlog*
-* [ ] Done Criteria*
-* [ ] Personas*
+* [ ] Prioritized Product Backlog
+* [ ] Done Criteria
+* [ ] Personas
 * [ ] Epic(s)
 
 TOOLS
-* [ ] User Story Writing Expertise*
+* [ ] User Story Writing Expertise
 * [ ] User Story Workshops
 * [ ] User Group Meetings
 * [ ] Focus Group Meetings
@@ -143,19 +145,17 @@ TOOLS
 * [ ] User Story Estimation Methods
 
 OUTPUTS
-* [ ] User Stories*
-* [ ] User Story Acceptance Criteria*
-* Updated Prioritized Product Backlog
-* [ ] Updated or Refined Personas
+* [ ] User Stories
+* [ ] User Story Acceptance Criteria
 
 ### Approve, Estimate, and Commit User Stories (9.2)
 
 INPUTS
-* [ ] User Stories*
-* [ ] User Story Acceptance Criteria* 
+* [ ] User Stories
+* [ ] User Story Acceptance Criteria
 
 TOOLS (User Story Estimation Methods)
-* [ ] User Group Meetings*
+* [ ] User Group Meetings
 * [ ] Planning Poker
 * [ ] Fist of Five
 * [ ] Points for Cost Estimation
