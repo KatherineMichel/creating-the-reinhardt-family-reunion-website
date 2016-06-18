@@ -1,5 +1,7 @@
 # Creating the Reinhardt Reunion Website
 
+A GitBook Documenting a Research and Design Sprint
+
 ![](cover.jpg)
 
 Table of Contents
