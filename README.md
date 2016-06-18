@@ -24,6 +24,7 @@ Table of Contents
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
 * [User Testing Summary](user-testing/user-testing-summary.md)
+* [Results Report](results-report.md)
 * [Lessons Learned](lessons-learned.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-reunion-website/content/
