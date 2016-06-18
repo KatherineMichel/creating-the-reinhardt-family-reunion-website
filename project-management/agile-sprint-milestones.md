@@ -5,7 +5,7 @@ Based on the [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy
 ## Overall
 
 Stakeholders
-* [ ] Product Owner
+* [X] Product Owner
 * [ ] Project Vision Statement
 * [ ] Stakeholder(s)
 * [ ] Business Requirements
