@@ -4,11 +4,6 @@
 
 Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
 
-Note: Asterisks (*) denote a “mandatory” input, tool, or output for the corresponding process.
-
-Figure 8-5: The Gap Analysis Process
-Figure 10-5: Scrumboard
-
 * Product Owner
 * [ ] Project Vision Statement*
 * [ ] Stakeholder(s)
@@ -79,7 +74,6 @@ TOOLS
 
 OUTPUTS
 * [ ] Identified Scrum Team* 
-* Back-up Persons
 * Collaboration Plan
 
 ### Develop Epic(s) (8.4)
@@ -93,7 +87,7 @@ TOOLS
 
 OUTPUTS
 * [ ] Epic(s)* 
-* [ ] Personas*: Creating a Persona
+* [ ] Personas*
 
 ### Create Prioritized Product Backlog (8.5)
 
@@ -118,8 +112,6 @@ OUTPUTS
 INPUTS
 * [ ] Prioritized Product Backlog* 
 * [ ] Done Criteria*
-
-* Holiday Calendar
 
 TOOLS
 * [ ] Release Planning Sessions*
