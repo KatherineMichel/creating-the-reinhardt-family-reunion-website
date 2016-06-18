@@ -5,7 +5,8 @@
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Project Management](project-management.md)
+* [Project Management](project-management/project-management.md)
+   * [Agile Sprint Milestones](project-management/agile-sprint-milestones.md)
 * [Research Sprint](research-sprint/research-sprint.md)
    * [User Stories](research-sprint/user-stories.md)
 * [Design Sprint](design-sprint/design-sprint.md)
