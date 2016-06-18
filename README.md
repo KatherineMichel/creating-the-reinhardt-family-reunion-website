@@ -33,4 +33,4 @@ GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-reunion-websi
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/creating-the-reinhardt-reunion-website
 
-© [Katherine Michel](https://twitter.com/katimichel) 2016
+© [Katherine Michel](http://katherinemichel.github.io) 2016
