@@ -1,8 +1,8 @@
 # Agile Sprint Milestones
 
-## Agile Sprint
+Based on the [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
 
-Based on [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf) Phases<br>
+## Overall
 
 Stakeholders
 * [ ] Product Owner
@@ -16,6 +16,7 @@ Change Requests
 
 Risks
 * [ ] Risk Identification Techniques
+* [ ] Risk Assessment Techniques
 * [ ] Identified Risks
 * [ ] Mitigated Risks
 
@@ -98,10 +99,9 @@ INPUTS
 * [ ] Personas
 
 TOOLS
-* [ ] User Story Prioritization Methods*: MoSCoW Prioritization scheme, Paired Comparison, 100-Point Method, Kano Analysis
+* [ ] User Story Prioritization Methods
 * [ ] User Story Workshops
 * [ ] Planning for Value
-* [ ] Risk Assessment Techniques
 * [ ] Estimation of Project Value
 * [ ] User Story Estimation Methods
 
@@ -159,96 +159,96 @@ TOOLS (User Story Estimation Methods)
 * [ ] Planning Poker
 * [ ] Fist of Five
 * [ ] Points for Cost Estimation
-* Other Estimation Techniques: (Wideband Delphi, Relative Sizing/Story Points, Affinity Estimation, Estimate Range)
+* [ ] Other Estimation Techniques
 
 OUTPUTS
-* [ ] Approved, Estimated, and Committed User Stories*
+* [ ] Approved, Estimated, and Committed User Stories
 
 ### Create Tasks (9.3)
 
 INPUTS
-* [ ] Approved, Estimated, and Committed User Stories*
+* [ ] Approved, Estimated, and Committed User Stories
 
 TOOLS
-* [ ] Task Planning Meetings*: Figure 9-9: Task Planning Meetings (a.k.a Sprint Planning Meeting, similar to Task Estimation Meeting)
+* [ ] Task Planning Meetings
 * [ ] Index Cards
 * [ ] Decomposition
-* [ ] Dependency Determination: (Mandatory dependencies, Discretionary dependencies, External dependencies, Internal dependencies) 
+* [ ] Dependency Determination
 
 OUTPUTS
-* [ ] Task List*
+* [ ] Task List
 * [ ] Updated Approved, Estimated, and Committed User Stories 
 
 ### Estimate Tasks (9.4)
 
 INPUTS
-* [ ] Task List*
+* [ ] Task List
 * [ ] User Story Acceptance Criteria
 
 TOOLS
-* [ ] Task Estimation Meetings*
-* [ ] Estimation Criteria*
-* Planning Poker
-* Fist of Five
-* Other Task Estimation Techniques
+* [ ] Task Estimation Meetings
+* [ ] Estimation Criteria
+* [ ] Planning Poker
+* [ ] Fist of Five
+* [ ] Other Task Estimation Techniques
 
 OUTPUTS
-* [ ] Effort Estimated Task List*
+* [ ] Effort Estimated Task List
 * [ ] Updated Task List
 
 ### Create Sprint Backlog (9.5)
 
 INPUTS
-* [ ] Task List*
+* [ ] Task List
 * User Story Acceptance Criteria
 
 TOOLS
-* [ ] Task Estimation Meetings*
-* [ ] Estimation Criteria*
-* Planning Poker
-* Fist of Five
-* Other Task Estimation Techniques
+* [ ] Task Estimation Meetings
+* [ ] Estimation Criteria
+* [ ] Planning Poker
+* [ ] Fist of Five
+* [ ] Other Task Estimation Techniques
 
 OUTPUTS
-* [ ] Effort Estimated Task List*
-* Updated Task List
-* [ ] Length of Sprint*
-* Previous Sprint Velocity
-* Team Calendar
+* [ ] Effort Estimated Task List
+* [ ] Updated Task List
+* [ ] Length of Sprint
+* [ ] Previous Sprint Velocity
+* [ ] Team Calendar
 
 TOOLS
-* [ ] Sprint Planning Meetings* 
-* Sprint Tracking Tools: Velocity, Business Value Delivered, Number of Stories, ect
-* Sprint Tracking Metrics
+* [ ] Sprint Planning Meetings
+* [ ] Sprint Tracking Tools
+* [ ] Sprint Tracking Metrics
 
 OUTPUTS
-* [ ] Sprint Backlog*
-* [ ] Sprint Burndown Chart*
+* [ ] Sprint Backlog
+* [ ] Sprint Burndown Chart
 
 ## Implement Phase
 
 ### Create Deliverables (10.1)
 
 INPUTS
-* [ ] Sprint Backlog*
-* [ ] Scrumboard*
-* Release Planning Schedule
+* [ ] Sprint Backlog
+* [ ] Scrumboard
+* [ ] Release Planning Schedule
 
 TOOLS
-* [ ] Team Expertise*
-* Software
-* Other Development Tools: (Refactoring, Design Patterns)
+* [ ] Team Expertise
+* [ ] Software
+* [ ] Other Development Tools: (Refactoring, Design Patterns)
 
 OUTPUTS
-* [ ] Sprint Deliverables*
-* [ ] Updated Scrumboard*
+* [ ] Sprint Deliverables
+* [ ] Updated Scrumboard
 
 ### Conduct Daily Standup (10.2)
 
 INPUTS
-* [ ] Sprint Burndown Chart*
-* Previous Work Day Experience 
-* Scrumboard
+* [ ] Sprint Burndown Chart
+* [ ] Previous Work Day Experience 
+* [ ] Scrumboard
 
 Recommendations
 * [ ] Daily Standup Meeting*
@@ -328,16 +328,6 @@ Grooming Techniques
 OUTPUTS
 * [ ] Updated Prioritized Product Backlog*
 * Updated Release Planning Schedule
-
-Other Prioritized Product Backlog Grooming Techniques
-Some other Prioritized Product Backlog Grooming tools include many of the same tools used for the following processes:
-Develop Epic(s)—Described in section 8.4.2.
-Create Prioritized Product Backlog—Described in section 8.5.2.
-Conduct Release Planning—Described in section 8.6.2.
-Create User Stories—Described in section 9.1.2.
-Approve, Estimate, and Commit User Stories—Described in section 9.2.2.
-Create Tasks—Described in section 9.3.2.
-Estimate Tasks—Described in section 9.4.2.
 
 ## Review and Retrospect Phase
 
