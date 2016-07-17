@@ -10,8 +10,6 @@ Table of Contents
 * [Project Management](project-management/project-management.md)
    * [Statement of Work](project-management/statement-of-work.md)
    * [Agile Sprint Milestones](project-management/agile-sprint-milestones.md)
-* [Research Sprint](research-sprint/research-sprint.md)
-   * [User Stories](research-sprint/user-stories.md)
 * [Design Sprint](design-sprint/design-sprint.md)
    * [Flow Diagram](design-sprint/flow-diagram-rough-draft.md)
    * [Wireframes](design-sprint/wireframes.md)
@@ -22,6 +20,9 @@ Table of Contents
    * [Django](coding/django.md)
    * [Staged Deployment](coding/staged-deployment.md)
 * [Administration](administration.md)
+
+* [Research Sprint](research-sprint/research-sprint.md)
+   * [User Stories](research-sprint/user-stories.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
