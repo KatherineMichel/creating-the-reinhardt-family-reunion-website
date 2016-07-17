@@ -1,6 +1,6 @@
 # Creating the Reinhardt Reunion Website
 
-A GitBook Documenting My Experience of Creating Reinhardt Reunion Website
+A GitBook Documenting My Experience of Creating the Reinhardt Reunion Website
 
 ![](cover.jpg)
 
