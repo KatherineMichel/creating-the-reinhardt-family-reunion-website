@@ -7,16 +7,16 @@ Although GitHub is most often used by developers, increasingly more community or
 Below are screenshots showing what a church GitHub organization would look like and the setup process. 
 
 Organization Account with Me as Owner
-![](images/pretty-prairie-united-methodist-church-organization-account.png)
+![](images/pretty-prairie-united-methodist-church-organization-account.jpg)
 
 Create an Organization
-![](images/pretty-prairie-united-methodist-church-create-an-organization.png)
+![](images/pretty-prairie-united-methodist-church-create-an-organization.jpg)
 
 Invite Organization Members
-![](images/pretty-prairie-united-methodist-church-invite-organization-members.png)
+![](images/pretty-prairie-united-methodist-church-invite-organization-members.jpg)
 
 Update the Settings with Proper Name and Profile Picture
-![](images/pretty-prairie-united-methodist-church-settings.png)
+![](images/pretty-prairie-united-methodist-church-settings.jpg)
 
 Create a Team
-![](images/pretty-prairie-united-methodist-church-create-a-new-team.png)
+![](images/pretty-prairie-united-methodist-church-create-a-new-team.jpg)
