@@ -8,7 +8,7 @@ The website color scheme passes the [WebAim Color Contrast Checker](http://webai
 * Foreground color: #ffffff
 * Accent color: #0aac8e
 
-![](images/theme-color-scheme.png)
+![](images/theme-color-scheme.jpg)
 
 
 

@@ -53,39 +53,39 @@ Though GitHub could looking intimidating at first, it can actually be simple to 
 Here are the steps for a person who is an account owner or organization member: 
 
 In GitHub, navigate to the website repo and double click the name
-![](images/self-hosted-church-website-jekyll.png)
+![](images/self-hosted-church-website-jekyll.jpg)
 
 For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch
-![](images/gh-pages.png)
+![](images/gh-pages.jpg)
 
 Click on the _posts folder to open it
-![](images/posts.png)
+![](images/posts.jpg)
 
 Click on the "post-template.markdown" file to open it
-![](images/blog-posts.png)
+![](images/blog-posts.jpg)
 
 Select all, copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", select all, (Control-C), then back button
-![](images/copy-post-template.png)
+![](images/copy-post-template.jpg)
 
 Click the "Create new file" button in the upper right
-![](images/create-new-file.png)
+![](images/create-new-file.jpg)
 
 A new file will open
-![](images/blog-post-new-file.png)
+![](images/blog-post-new-file.jpg)
 
 Paste the contents of the blog post template into the new file
-![](images/paste-into-new-file.png)
+![](images/paste-into-new-file.jpg)
 
 In the "Name your file" box, type the yyyy-mm-dd-blog-post-title.markdown in exactly this format (exclude other punctuation such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: title); Under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
-![](images/new-blog-post.png)
+![](images/new-blog-post.jpg)
 
 When you are happy with your post, scroll to the bottom of the page. Optionally, leave a commit message. Click the green "Commit new file" button
-![](images/commit-new-file.png)
+![](images/commit-new-file.jpg)
 
 The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
 
 Example Post on Blog Homepage
-![](images/blog-post-example-homepage.png)
+![](images/blog-post-example-homepage.jpg)
 
 Blog Post Page
-![](images/blog-post-example.png)
+![](images/blog-post-example.jpg)

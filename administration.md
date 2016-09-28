@@ -1,4 +1,4 @@
 # Administration
 
 Django Admin
-![](admin.png)
+![](admin.jpg)
