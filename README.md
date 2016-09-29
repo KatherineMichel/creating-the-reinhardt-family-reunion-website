@@ -18,7 +18,7 @@ Table of Contents
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
 
-* [Coding](coding-approaches/coding-approaches.md)
+* [Coding](coding/coding.md)
 * [Open-Source GitHub Organization](open-source-github-organization.md)
 * [Lessons Learned](lessons-learned.md)
 
