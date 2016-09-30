@@ -18,14 +18,13 @@ Table of Contents
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
    * [Accessibility](design-sprint/accessibility.md)
 
-* [Open-Source GitHub Organization](open-source-github-organization.md)
-* [Lessons Learned](lessons-learned.md)
-
 * [Coding](coding/coding.md)
    * [Design](coding/design.md)
    * [Django](coding/django.md)
    * [Staged Deployment](coding/staged-deployment.md)
    * [Administration](administration.md)
+
+* [Lessons Learned](lessons-learned.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-reunion-website/content/
 <br> 
