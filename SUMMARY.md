@@ -10,7 +10,8 @@ Table of Contents
    * [Design](coding/design.md)
    * [Django](coding/django.md)
    * [Staged Deployment](coding/staged-deployment.md)
-   * [Administration](administration.md)
+
+* [Administration](administration.md)
 
 * [Lessons Learned](lessons-learned.md)
 
