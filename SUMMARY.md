@@ -8,8 +8,6 @@ Table of Contents
 
 * [Coding](coding/coding.md)
    * [Design](coding/design.md)
-   * [Django](coding/django.md)
-   * [Staged Deployment](coding/staged-deployment.md)
 
 * [Administration](administration.md)
 
