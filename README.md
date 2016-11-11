@@ -7,14 +7,9 @@ A GitBook Documenting My Experience of Creating the Reinhardt Reunion Website
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
-
 * [Design](design.md)
-
-* [Coding](coding/coding.md)
-   * [Design](coding/design.md)
-
+* [Jekyll](jekyll.md)
 * [Administration](administration.md)
-
 * [Lessons Learned](lessons-learned.md)
 
 GitBook: http://katherinemichel.gitbooks.io/creating-the-reinhardt-reunion-website/content/

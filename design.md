@@ -1,5 +1,14 @@
 # Design
 
+The website design is based on CSS/HTML/JavaScript that I extracted from a WordPress theme called Modern by WebMan. This freed me up to focus on the back-end functionality, which I wrote in Django. Though using a WordPress template in a Django website may seem unconventional, I randomly came across the theme after I had begun to work on the website in Django and loved the design. I felt it would fit very well for a genealogy website. 
+
+## Key Features
+
+* Black and white, with a touch of color
+* Carousel
+* Blog and gallery 
+* Tag and pagination widgets
+
 ## Flow Diagram Rough Draft
 
 Website flow diagram made using [Google Drawings](https://en.wikipedia.org/wiki/Google_Drawings)
@@ -17,8 +26,6 @@ Photo 3
 ![](images/reinhardt-family-3.jpg)
 
 ## Color Scheme
-
-The website color scheme passes the [WebAim Color Contrast Checker](http://webaim.org/resources/contrastchecker) with a contrast ratio of 17.09:1.
 
 * Background color: #1a1c1e
 * Foreground color: #ffffff
