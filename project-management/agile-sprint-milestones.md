@@ -1,7 +1,0 @@
-# Agile Sprint Milestones
-
-
-
-
-
-
