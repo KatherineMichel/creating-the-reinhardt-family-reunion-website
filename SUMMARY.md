@@ -4,7 +4,7 @@ Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
 
-* [Design Sprint](design-sprint.md)
+* [Design](design.md)
    * [Flow Diagram](flow-diagram-rough-draft.md)
    * [Wireframes](wireframes.md)
    * [High-Fidelity Prototype](high-fidelity-prototype.md)
@@ -16,5 +16,7 @@ Table of Contents
    * [Administration](administration.md)
 
 * [Accessibility](accessibility.md)
+
+* [Lessons Learned](lessons-learned.md)
 
 
